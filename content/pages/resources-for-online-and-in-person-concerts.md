@@ -7,26 +7,26 @@ uid: 5df8e3c8-07ec-48b7-bfa6-574551535e65
 ---
 ## Resources for In-Person Concerts (Boston area)
 
-{{% resource_link "de00a0f9-ca4f-4e24-9bc8-d65de431f1e4" "MTA Events at MIT" %}}
+[MTA Events at MIT](https://mta.mit.edu/events)
 
-{{% resource_link "cb0e1d0f-a9a9-41a2-aa48-1b6f7c26abd5" "Boston Music Intelligencer Links to an external site." %}}
+[Boston Music Intelligencer Links to an external site.](https://www.classical-scene.com/calendar/)
 
-{{% resource_link "51d3a2bb-3c8e-4560-99ef-da610a8eae5a" "College Card Program BSO" %}}
+[College Card Program BSO](https://canvas.mit.edu/courses/27870/modules/items/1129456)
 
-{{% resource_link "556486a0-60ac-49ff-877e-0c831cc9ce2e" "Boston Lyric Opera" %}}
+[Boston Lyric Opera](https://canvas.mit.edu/courses/27870/modules/items/1129457)
 
-{{% resource_link "e5d3410f-088c-4800-a0e3-bfb26840aefa" "Boston Philharmonic Orchestra" %}}
+[Boston Philharmonic Orchestra](https://canvas.mit.edu/courses/27870/modules/items/1129458)
 
-{{% resource_link "260bb74c-8774-4b62-a8a6-5569535d07ef" "Blue Heron" %}}
+[Blue Heron](https://canvas.mit.edu/courses/27870/modules/items/1129459)
 
-{{% resource_link "83ba602b-6339-4f0c-93e1-414e0873068b" "Boston Early Music Festival" %}}
+[Boston Early Music Festival](https://canvas.mit.edu/courses/27870/modules/items/1129460)
 
-{{% resource_link "d174b4bb-6327-4ad2-9732-287393e3549a" "Handel and Haydn Society Student Masterpass" %}}
+[Handel and Haydn Society Student Masterpass](https://canvas.mit.edu/courses/27870/modules/items/1184182)
 
 ## Resources for Online Concerts
 
-{{% resource_link "75b7a7bc-5e52-44ef-b33c-ed439d95357b" "Metropolitan Opera On Demand" %}}
+[Metropolitan Opera On Demand](http://metopera.org.libproxy.mit.edu/season/on-demand/)
 
-{{% resource_link "d7d1b84e-b009-461c-ad3d-787a444fdab6" "Berlin Philharmonic Digital Concert Hall" %}}
+[Berlin Philharmonic Digital Concert Hall](https://www-digitalconcerthall-com.libproxy.mit.edu/en)
 
-{{% resource_link "90cf0023-f581-41f6-b590-e75b42d45aa5" "Medici TV streaming database" %}}
+[Medici TV streaming database](https://edu-medici-tv.libproxy.mit.edu/en)

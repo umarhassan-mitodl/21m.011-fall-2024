@@ -64,6 +64,6 @@ Bass line played by an instrument that can also play chords, such as a keyboard 
 
 ## Extra Resources
 
-{{% resource_link "20c1f7ad-a8c2-4ba6-acdc-17cd681ff6fd" "Lost Stradivarius Violin on The Moth" %}}
+[Lost Stradivarius Violin on The Moth](https://themoth.org/stories/a-violins-life)
 
-{{% resource_link "83bd5261-aaeb-4fe3-8cc7-3887ab9518e0" "Another Stolen Stradivarius" %}}
+[Another Stolen Stradivarius](https://www.npr.org/2015/08/06/427718240/a-rarity-reclaimed-stolen-stradivarius-recovered-after-35-years)

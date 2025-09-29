@@ -17,9 +17,9 @@ Recall the definition of a **Mass** from Week 1:
 
 ### Guillaume Dufay, “Kyrie” from the *L’homme arme* Mass (Kyrie/Mass)
 
-First listen to L’homme arme (pre-existing secular song), performed by the Oxford Camerata {{% resource_link "c9a6a063-0ca6-4c58-99fd-0ac76d138db7" "\[Listen on YouTube\]" %}} 
+First listen to L’homme arme (pre-existing secular song), performed by the Oxford Camerata [\[Listen on YouTube\]](https://www.youtube.com/watch?v=5QfB_Ut57WI) 
 
-Here is {{% resource_link "0f5f08bc-4c63-4ce2-9fc6-8865b4a62a11" "the text and translation" %}} (License: CC BY-SA)
+Here is [the text and translation](https://en.wikipedia.org/wiki/L%27homme_arm%C3%A9) (License: CC BY-SA)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -47,7 +47,7 @@ The armed man should be feared. 
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Now listen to how Dufay uses this tune as the basis for his “Kyrie”: Performed by the Hilliard Ensemble {{% resource_link "5abb593d-de6e-4d77-82f7-108ff3706e32" "\[Listen on YouTube\]" %}} 
+Now listen to how Dufay uses this tune as the basis for his “Kyrie”: Performed by the Hilliard Ensemble [\[Listen on YouTube\]](https://www.youtube.com/watch?v=CnJse-D_AzM) 
 
 Here is the text and translation:
 
@@ -81,11 +81,11 @@ Remember that musical elements include the following: 
 
 ### Josquin Desprès, “Agnus Dei” from the *Pange lingua* Mass (Agnus Dei/Mass)
 
-You can remind yourself of the original hymn studied in week I: {{% resource_link "bd2093b4-0379-454b-91e0-6aa9658bcfe9" "\[Listen on YouTube\]" %}} (0:00–0:28 only)
+You can remind yourself of the original hymn studied in week I: [\[Listen on YouTube\]](https://www.youtube.com/watch?v=U-AsvDn87fo) (0:00–0:28 only)
 
-Now listen to how Josquin uses this hymn as the basis for his “Agnus Dei”: {{% resource_link "80f5c62b-08a8-4a22-b636-53ab010b56af" "\[Listen on YouTube\]" %}}
+Now listen to how Josquin uses this hymn as the basis for his “Agnus Dei”: [\[Listen on YouTube\]](https://www.youtube.com/watch?v=rjj6Mk9yy8A)
 
-Here is {{% resource_link "107cdd33-b9f8-4479-b8d1-38dd67ac3711" "the text and translation" %}}:
+Here is [the text and translation](https://en.wikipedia.org/wiki/Pange_lingua_gloriosi_corporis_mysterium):
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -121,7 +121,7 @@ Be prepared to share one observation about this performance in class (nothing wr
 
 ### Johannes Ockeghem, “Kyrie” from the Missa prolationum (Kyrie/Mass)
 
-Listen to Ockeghem Kyrie: Performed by the Clerks' Group {{% resource_link "5f7db50e-7f51-43ab-9b68-22b0c86c75dc" "\[Listen on YouTube\]" %}}
+Listen to Ockeghem Kyrie: Performed by the Clerks' Group [\[Listen on YouTube\]](https://www.youtube.com/watch?v=9FKs4wlC0NE)
 
 Here is the text and translation:
 
@@ -161,12 +161,12 @@ Du Fay, Guillaume (real name, Willem Du Fayt)." *Baker's Biographical Dictionary
 
 **Who is Josquin?**
 
-{{% resource_link "d524a021-ebbb-4709-9393-62cea680be22" "Josquin Desprès - Oxford Reference" %}}
+[Josquin Desprès - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780199578108.001.0001/acref-9780199578108-e-4831?rskey=AimrhV&result=1)
 
 **Who is Ockeghem?**
 
-{{% resource_link "7af98562-6f0f-4c95-b734-7850f3195ce2" "Ockeghem, Johannes - Oxford Reference" %}}
+[Ockeghem, Johannes - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780199578108.001.0001/acref-9780199578108-e-6594?rskey=RS9ho0&result=2)
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see {{% resource_link "cf463af3-350e-490b-a0ff-969bf06fd59e" "Oxford Reference for timelines of world history by century" %}}
+OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines)

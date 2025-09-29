@@ -25,7 +25,7 @@ Song cycle: a collection of songs which the composer sets as a larger work. Song
 
 ### Franz Schubert, "Erlkönig" (Lied)
 
-Performed by Thomas Quasthoff, tenor, and Charles Spencer, pianoforte. {{% resource_link "9f554fad-d21d-4eff-9d36-105f867d81e5" "\[Listen on YouTube\]" %}}
+Performed by Thomas Quasthoff, tenor, and Charles Spencer, pianoforte. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=rACDt1e1EWU)
 
 Here is the text and translation:
 
@@ -195,7 +195,7 @@ Locked in his arm, the child was dead.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Original poem by Johann Wolfgang von Goethe; {{% resource_link "e036be08-ea29-4459-9a9c-810358762905" "Translation" %}}
+Original poem by Johann Wolfgang von Goethe; [Translation](https://genius.com/Genius-english-translations-johan-wolfgang-von-goethe-der-erlkonig-english-translation-annotated)
 
 **From Robert Schumann's Song cycle,** ***Dichterliebe*** **(Poet's Love)** 
 
@@ -245,10 +245,10 @@ Original poem by Heinrich Heine; translation by Richard Stokes, author of *The B
 
 ### Frédéric Chopin, Nocturne in Db Major, op. 27, no. 2 (nocturne)
 
-Performed by Lang Lang. {{% resource_link "822c3f76-e41c-4469-a5b4-b80bf4f8701c" "\[Listen on YouTube\]" %}}
+Performed by Lang Lang. [\[Listen on YouTube\]](https://youtu.be/OORWoYSO8D8?si=d5QmnL5o6ednlWeB&t=26)
 
 ### Franz Liszt, "La Campanella" (character piece)
 
-Performed by Evgeny Kissin. {{% resource_link "8372ffd8-4c84-4a6a-aadb-f5b522bbeee3" "\[Listen on YouTube\]" %}}
+Performed by Evgeny Kissin. [\[Listen on YouTube\]](https://youtu.be/0FbQZCsYXVg?si=Pn1FjtYqiDy3mw0T&t=17)
 
 After listening to these works, be prepared to share on the board TWO characteristics of ONE work that you found most appealing. Be sure to use precise musical terminology.

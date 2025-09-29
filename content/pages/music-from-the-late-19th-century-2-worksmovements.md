@@ -9,7 +9,7 @@ uid: d861a7c6-f817-4459-9384-b48e21cb159c
 
 **Piano Trio No. 4** in E minor, Op. 90, VI (Lento maestoso)
 
-{{% resource_link "d74a3748-219c-4339-a4bc-45962fd57204" "\[Listen on YouTube\]" %}}
+[\[Listen on YouTube\]](https://youtu.be/CNVw7-xGGOM?si=VWuOnQu9dYex5eTm&t=1594)
 
 The sixth (and final) movement of this piano trio (violin, cello, and piano) begins at 26:34.
 
@@ -17,7 +17,7 @@ The sixth (and final) movement of this piano trio (violin, cello, and piano) beg
 
 Messa da Requiem, "Dies irae" for choir and orchestra. This excerpt is Verdi's setting of the first two stanzas of the text (text and English translation below).
 
-{{% resource_link "7b8ea83e-b935-4e08-9ef3-320284cf0972" "\[Listen on YouTube\]" %}}
+[\[Listen on YouTube\]](https://youtu.be/Nlq9lJRElBk?si=o-DBbfJH-twmpIT5&t=573)
 
 The "Dies irae" begins at 9:33 and ends at 12:44. It moves into the next movement without a pause or cadence.
 

@@ -9,7 +9,7 @@ uid: 45c4ee77-7be8-4ce5-b3a6-089ad23bddba
 
 ### "Dies Irae" (chant)
 
-Alfred Deller Consort singing from the *Liber Usualis* {{% resource_link "481d70f0-4e19-496f-925c-d389eef78f77" "\[Listen on YouTube\]" %}}
+Alfred Deller Consort singing from the *Liber Usualis* [\[Listen on YouTube\]](https://www.youtube.com/watch?v=dsn9LWh230k)
 
 #### Discussion
 

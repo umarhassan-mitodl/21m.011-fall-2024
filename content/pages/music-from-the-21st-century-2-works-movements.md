@@ -11,7 +11,7 @@ uid: 920b0a8a-657a-47a2-922d-00061e313eef
 
 *Partita* is another term for "suite." A sarabande is a type of dance that dates to the Renaissance.
 
-{{% resource_link "8622c70a-9341-4b49-9fbd-a41dfd13d186" "\[Listen on YouTube\]" %}}
+[\[Listen on YouTube\]](https://www.youtube.com/watch?v=1Dc6oN7YKZk)
 
 **Charles Shadle** (1960–)
 

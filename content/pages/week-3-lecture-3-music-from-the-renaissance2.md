@@ -9,7 +9,7 @@ uid: 3b1c5bd2-27d4-4054-b14f-d0a365f4c652
 
 ### Miguel de Fuenllana, “Paseábase el rey” (lute song)
 
-Performed by Pepe Becker, soprano and Stephen Pickett, Renaissance guitar {{% resource_link "c4770958-64a6-40a2-971a-6e9c8a542d3e" "\[Listen on YouTube\]" %}}
+Performed by Pepe Becker, soprano and Stephen Pickett, Renaissance guitar [\[Listen on YouTube\]](https://www.youtube.com/watch?v=I7F3sfyDl5U)
 
 Here is the text and translation:
 
@@ -43,9 +43,9 @@ Alas! my Alhama! 
 
 Listen to these different performances.
 
-1. Performed by the Consort of Musike dir. Anthony Rooley, Andrew King, tenor. {{% resource_link "2ae9fa80-eee7-4dfd-8023-cb15af1b807e" "\[Listen on YouTube\]" %}}           
+1. Performed by the Consort of Musike dir. Anthony Rooley, Andrew King, tenor. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=a56Llxj2oH0)           
      
-2. Performed by Anne Sofie von Otter and Jakob Lindberg. {{% resource_link "4a77be65-0987-48fe-a780-6afbff16181d" "\[Listen on YouTube\]" %}}
+2. Performed by Anne Sofie von Otter and Jakob Lindberg. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=pA1SZOWUoSU)
 
 Here is the text:
 
@@ -105,7 +105,7 @@ Come, come, come, for either I will love or admire thee.
 
 ### Giovanni Gabrieli, “In ecclesiis” (motet)
 
-Performed in collaboration by the Arp Schnitger Ensemble, Oltremontano, and the Gesualdo Consort. Listen to 0:00–3:37 only: {{% resource_link "efeec06a-6e36-4ef7-82bb-b967ad069761" "\[Listen on YouTube\]" %}}
+Performed in collaboration by the Arp Schnitger Ensemble, Oltremontano, and the Gesualdo Consort. Listen to 0:00–3:37 only: [\[Listen on YouTube\]](https://www.youtube.com/embed/u3U47JuKxnw?end=217)
 
 Recall the definition of a motet from week 2:
 
@@ -201,4 +201,4 @@ Remember that musical elements include the following: 
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see {{% resource_link "cf463af3-350e-490b-a0ff-969bf06fd59e" "Oxford Reference for timelines of world history by century" %}}
+OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines)

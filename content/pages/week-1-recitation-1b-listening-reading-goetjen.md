@@ -59,13 +59,13 @@ This particular song is a *canso* or love song which is one of the multiple type
 
 Before you listen to this song, read the Occitan poem and English translation below. Then listen to the song at least once or twice while following along with the poem. Pay close attention to where the melody repeats. This song is **strophic**, so each stanza of the poem will be sung to the same melody. In addition, you will find that each stanza is split in two groups of four lines of poetry. The melody will also follow this division. Also, as it relates to one of the discussion questions below, listen for what the mood or emotion of the music is and whether you feel that it connects to the emotion of the words, or not.
 
-Finally, please note that our listening example does not include the complete poem, but rather only has stanzas 1, 2, 7 and the closing four-line section called an *envoi*. For the sake of clarity, I have only included those parts of the poem below which apply to our recording, but if you are interested, {{% resource_link "54a111fa-3f42-4312-923a-402e4e52bc8a" "you can read the whole poem" %}}.
+Finally, please note that our listening example does not include the complete poem, but rather only has stanzas 1, 2, 7 and the closing four-line section called an *envoi*. For the sake of clarity, I have only included those parts of the poem below which apply to our recording, but if you are interested, [you can read the whole poem](https://www.denisnoble.com/wp-content/uploads/2021/01/Can-vei-la-lauzeta.pdf).
 
 ### Bernart de Ventadorn, “Can vei la lauzeta mover,” troubadour song (c. 1150)
 
-Recording performed by Ensemble Alla Francesca (Emmanuel Bonnardot, Raphaël Boulay, Pierre Hamon, and Brigitte Lesne), 1996 Opus 111. \[{{% resource_link "70d7aa0f-80ef-4edc-b97e-aa0cace062ee" "Listen on YouTube" %}}\]
+Recording performed by Ensemble Alla Francesca (Emmanuel Bonnardot, Raphaël Boulay, Pierre Hamon, and Brigitte Lesne), 1996 Opus 111. \[[Listen on YouTube](https://www.youtube.com/watch?v=OK2qe4g2i20&t=8s)\]
 
-{{% resource_link "3ae0e27c-ff84-4f70-b5f5-110734131d2f" "Text and translation by Todd Tarantino" %}}
+[Text and translation by Todd Tarantino](https://toddtarantino.com/hum/ventadorn.html)
 
 #### Comtessa de Dia
 
@@ -77,9 +77,9 @@ Pay attention to how the melody follows the poetry, which is carefully crafted i
 
 As with the Bernart song, listen both for how the poetic and musical structures relate, but also consider whether the emotion in the music matches the emotion in the poem, in your opinion.
 
-Comtessa de Dia, “A chantar m’er de so qu’eu no volria,” troubadour song (late 12th century). Recording performed by Ensemble A Chantar and Regina Kabis (vocals), 2011 Christophorus. \[{{% resource_link "f5815663-23e9-4901-b63c-c7837f98c046" "Listen on YouTube" %}}\]
+Comtessa de Dia, “A chantar m’er de so qu’eu no volria,” troubadour song (late 12th century). Recording performed by Ensemble A Chantar and Regina Kabis (vocals), 2011 Christophorus. \[[Listen on YouTube](https://www.youtube.com/watch?v=lsRqvTnciUA)\]
 
-{{% resource_link "285a819e-c456-40b5-b73e-92846102231c" "Text and translation" %}}.
+[Text and translation](https://lyricstranslate.com/en/chantar-mer-i-am-obliged-sing.html).
 
 ### Early Music Performance
 

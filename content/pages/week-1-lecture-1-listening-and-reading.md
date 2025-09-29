@@ -35,7 +35,7 @@ Here are three types of chant based on the number of notes sung to each syllable
 
 ### Anonymous, “Haec dies” (chant/gradual)
 
-Here is the {{% resource_link "0fff195e-a310-4ce9-81d1-aa9ef2dc1e0d" "text and translation" %}}
+Here is the [text and translation](https://www.cpdl.org/wiki/index.php/Haec_dies)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Haec dies quam fecit Dominus:          
@@ -80,7 +80,7 @@ and gathered out of the countries.        
 
 ### Thomas Aquinas (text attribution), “Pange lingua gloriosi mysterium” (chant/hymn)
 
-Here is the {{% resource_link "107cdd33-b9f8-4479-b8d1-38dd67ac3711" "text and translation" %}}
+Here is the [text and translation](https://en.wikipedia.org/wiki/Pange_lingua_gloriosi_corporis_mysterium)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -116,7 +116,7 @@ From a noble Womb to spring. 
 
 ### Hildegard von Bingen, *The Play of Virtues*, end of scene 1 (morality play / chant)
 
-Here is the {{% resource_link "2c8cac04-6c56-4cd4-be3b-9e4b508979fd" "text and translation" %}}
+Here is the [text and translation](https://www.sequentia.org/images/recordings/Hildegard-Lyrics.pdf)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -238,5 +238,5 @@ longing for God … 
 
 ### Additional Materials for Further Study
 
-- {{% resource_link "c59698f3-3f77-456f-a4fd-fea0f494d77e" "More about this play and the author’s interpretation of this work" %}}
-- {{% resource_link "3c679932-6dcd-466d-920a-9f443b21f719" "A modern performance at NEC" %}}
+- [More about this play and the author’s interpretation of this work](https://www.healthyhildegard.com/ordo-virtutum/)
+- [A modern performance at NEC](https://www.youtube.com/watch?v=48PA-ZcclmY)

@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "Marin Alsop conducts the S\xE3o Paulo State Symphony Orchestra (OSESP)\
     \ during the opening of the 48th Campos do Jord\xE3o Winter Festival. (Photo by\
-    \ Gilberto Marques /A2img. Source: {{% resource_link \"a02a99f3-e8df-4304-9786-b69a84326d3b\"\
-    \ \"Governo do Estado de S\xE3o Paulo\" %}} on Flickr. License: CC BY.)"
+    \ Gilberto Marques /A2img. Source: [Governo do Estado de S\xE3o Paulo](https://flickr.com/photos/38014693@N04/35306231850)\
+    \ on Flickr. License: CC BY.)"
   credit: ''
   image-alt: A conductor leads an orchestra in a grand concert hall.
 learning_resource_types: []

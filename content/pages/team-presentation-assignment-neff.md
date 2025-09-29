@@ -2,6 +2,8 @@
 content_type: page
 description: Describes the team presentation group project.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Team Presentation Assignment (Neff)
 uid: c15ecb36-446b-4a8f-b18c-9546bed9de43
 ---
@@ -22,9 +24,9 @@ This presentation is 3% of the final grade.
 
 The works/movements for presentations are:
 
-**1\. John Cage (1912–1992)** , {{% resource_link "96dfdf0e-a63f-46db-9010-3e0ac364c4b9" "Sonata V \[Listen on YouTube\]" %}} from *Sonatas and Interludes for Prepared Piano*, completed in 1948. Here is a link to Cage's thoughts on prepared piano (a piano which is altered by the insertion of objects into the strings): {{% resource_link "18c42d84-dac4-4d10-bd1e-10985871fa13" "Prepared piano" %}}
+**1\. John Cage (1912–1992)** , [Sonata V \[Listen on YouTube\]](https://www.youtube.com/watch?v=WXnmPD1sgd8) from *Sonatas and Interludes for Prepared Piano*, completed in 1948. Here is a link to Cage's thoughts on prepared piano (a piano which is altered by the insertion of objects into the strings): [Prepared piano](https://johncage.org/prepared_piano_essay.html)
 
-**2\. John Adams (1947–)**, {{% resource_link "9fd15c4d-3cf8-4f57-b756-09c63c2240bc" "\"Batter my Heart\" \[Listen on YouTube\]" %}} from the opera *Doctor* *Atomic*, 2005. {{% resource_link "820d00fa-aa8c-4aa4-9ecf-58d469aebbea" "Synopsis" %}} of the opera. Here is the text by John Donne (1572–1631):
+**2\. John Adams (1947–)**, ["Batter my Heart" \[Listen on YouTube\]](https://www.youtube.com/watch?v=AlUHKHLk_VU) from the opera *Doctor* *Atomic*, 2005. [Synopsis](https://www.metopera.org//user-information/synopses-archive/doctor-atomic?INSTITUTION_LOGOUT=true) of the opera. Here is the text by John Donne (1572–1631):
 
 > Batter my heart, three-person'd God, for you
 > 
@@ -54,24 +56,24 @@ The works/movements for presentations are:
 > 
 > Nor ever chaste, except you ravish me.
 
-**3\. Olivier Messiaen (1908–1992)**, {{% resource_link "ef731aba-54bc-4d19-9f8d-7c60bdc32fca" "Quartet for the End of Time, Vocalise \[Listen on YouTube\]" %}}
+**3\. Olivier Messiaen (1908–1992)**, [Quartet for the End of Time, Vocalise \[Listen on YouTube\]](https://youtu.be/e2hbwINj7dE?si=YD5SSzPy4OsX6IHz&t=230)
 
 This movement ends at 9:30.
 
-{{% resource_link "9cd9aecc-cc6e-4144-9dbd-4e0732bdef8c" "More information about this work" %}}
+[More information about this work](https://www.carnegiehall.org/Explore/Articles/2021/03/11/Five-Things-to-Know-About-Messiaens-Quartet-for-the-End-of-Time)
 
-**4\. Steve Reich (1936–)**, {{% resource_link "c073e726-6191-49a4-86e4-6d31be12a90e" "\"Section IIIB\" \[Listen on YouTube\]" %}} from *Music for 18 Musicians*
+**4\. Steve Reich (1936–)**, ["Section IIIB" \[Listen on YouTube\]](https://youtu.be/PMsYuFrKUQ8?si=nl6BUYd2vm66aKxs&t=976) from *Music for 18 Musicians*
 
 Please focus on the excerpt from 16:16–20:28
 
-{{% resource_link "0677c106-21b4-45ee-a00a-ac752fabcff4" "More information about this work" %}}
+[More information about this work](https://stevereich.com/composition/music-for-18-musiciansLinks)
 
-**5\. William Grant Still (1895–1978)**, "Gamin," {{% resource_link "6a01556d-5e5c-4b0c-8c25-210bb107539e" "Suite for Violin and Piano \[Listen on YouTube\]" %}}, III
+**5\. William Grant Still (1895–1978)**, "Gamin," [Suite for Violin and Piano \[Listen on YouTube\]](https://www.youtube.com/watch?v=37iDfyPnzQs), III
 
-{{% resource_link "a2ade0e6-72e4-417b-9ec7-594d7e785673" "More information about the inspiration for this work" %}}
+[More information about the inspiration for this work](https://interlude.hk/musicians-and-artists-william-grant-still-and-sculpture/)
 
-**6\. Ruth Crawford (Seeger) (1874–1954)**, closing from {{% resource_link "3a469343-b654-454e-89fc-078cdcecc788" "*Music for Small Orchestra* \[Listen on YouTube\]" %}}
+**6\. Ruth Crawford (Seeger) (1874–1954)**, closing from [*Music for Small Orchestra* \[Listen on YouTube\]](https://youtu.be/XFJMnGrKSB8?si=xq3SQBEL237ByGRr&t=398)
 
 This is the end of the piece.
 
-{{% resource_link "447fcc09-6ab5-495d-ac3c-6c4c05169621" "More information about this work" %}}
+[More information about this work](https://content.thespco.org/music/concert-library/composition/music-for-small-orchestra-ruth-crawford-seeger)

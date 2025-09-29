@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c20bc540-62dc-a600-b061-045e7dde40e9",
+      "17295f97-3f94-4a4e-9d93-b2ac98782bbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "062ca319-e769-4167-9449-068734f6c4e0",
+    "website": "introduction-to-western-music"
+  },
+  "course_title": "Introduction to Western Music",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This class will convey a broad overview of the history, culture, styles, and repertoires of what is generally considered to be the core canon of Western classical music. It will begin with the earliest notated music in Western Europe (e.g., sacred plainchant) and end with recent pieces of concert music and opera written by contemporary composers.",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.011",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Media Assignments",
+    "Editable Files",
+    "Presentation Assignments"
+  ],
+  "site_uid": "6aa2b4b2-dc4f-4cc1-b95e-c9b0944df333",
+  "site_short_id": "21m.011-fall-2024",
+  "site_url_path": "courses/21m-011-introduction-to-western-music-fall-2024"
+}

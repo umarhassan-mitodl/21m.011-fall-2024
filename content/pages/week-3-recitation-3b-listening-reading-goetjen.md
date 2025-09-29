@@ -23,7 +23,7 @@ Follow along with the text and translation below as you listen. There are seven 
 
 ### Josquin des Prez, "Ave Maria … Virgo serena" (Marian motet), 1485 
 
-Recording performed by Stile Antico. {{% resource_link "40143d35-4d5d-4f43-9747-cc07d2706a95" "\[Listen on YouTube\]" %}}
+Recording performed by Stile Antico. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=s-pVbpV4yuk)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -171,7 +171,7 @@ Beyond the humor and wit in the text and its musical representation, the Parisia
 
 ### Clément Janequin, “Les Cris de Paris” (programmatic chanson), c. 1530
 
-Recording performed by Ensemble Clément Janequin, directed by Dominique Visse. {{% resource_link "34260ead-8cc8-4bb9-9993-de162b42d49d" "\[Listen on YouTube\]" %}}
+Recording performed by Ensemble Clément Janequin, directed by Dominique Visse. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=mg_3Jmrg_Gw)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -281,13 +281,13 @@ While French composers of secular polyphony like the chanson were abandoning the
 
 Like many other Franco-Flemish composers in the 15th century, Josquin spent some time in Italy and composed music in Italian. Our example of the frottola is his piece “El Grillo” (The Cricket). It was composed likely sometime in the 1490s, and published in 1505 by Petrucci. Josquin may have intended it to poke fun at his colleague at the court in Milan, the singer Carlo Grillo. Like Janequin’s chanson, there are onomatopoetic parts that musically mimic other sounds. In addition, it contains thinly veiled double entendres when the text says “He can sing very long, he sings all the time,” or “When the heat is very fierce, then he sings only for love.” Perhaps Carlo Grillo was both a good singer as well as an enthusiastic lover.
 
-{{% resource_link "3d27b46e-81c4-42d3-a415-9f90b3853664" "Here is an image of a 16th-century publication of this piece" %}}, from a partbook (a book where each part is notated separately, but there is no full score of all the parts together). The first page shows the superius (the highest part) and the tenor part, the second page shows altus (alto) and basius (bass).
+[Here is an image of a 16th-century publication of this piece](https://victoria.uma.es/varios/orig/Josquin-El_Grillo.orig.pdf), from a partbook (a book where each part is notated separately, but there is no full score of all the parts together). The first page shows the superius (the highest part) and the tenor part, the second page shows altus (alto) and basius (bass).
 
 The form of this frottola is broadly ABA, but there are parts repeated within each section. The most notable elements musically are 1) the nearly universal homophony, 2) often fast notes on the same pitch, perhaps representing the sound of a cricket, and 3) the bouncing rhythms that give it both an energy as well as a humorous quality. Follow along with the text and translation below as you listen:
 
 ### Josquin des Prez, “El Grillo” (frottola), c. 1490s
 
-Recording performed by The Hilliard Ensemble, directed by Paul Hillier. {{% resource_link "9f90d84d-7d4e-4ecb-aa59-6ef7f9a506a6" "\[Listen on YouTube\]" %}}
+Recording performed by The Hilliard Ensemble, directed by Paul Hillier. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=UOUSestsfbE)
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 

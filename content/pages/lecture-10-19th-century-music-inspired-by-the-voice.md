@@ -27,9 +27,9 @@ A story or drama presented in music. It is sung throughout using two techniques 
 
 #### Excerpts: 
 
-"Dell'invito trascorsa è già l'ora" and  "Libiamo ne'lieti calici" performed by Opera Nova w Bydgoszczy Orchestra. {{% resource_link "5b3cee73-d934-46fd-a372-b25ffc38d4f3" "\[Watch on YouTube\]" %}}
+"Dell'invito trascorsa è già l'ora" and  "Libiamo ne'lieti calici" performed by Opera Nova w Bydgoszczy Orchestra. [\[Watch on YouTube\]](https://www.youtube.com/watch?v=LUhsAi__mbM)
 
-"Libiamo ne'lieti calici" performed by Diana Damrau, Juan Diego Flórez, and the Met Chorus {{% resource_link "eda00bc8-3e74-4d14-b255-10d7612f8275" "\[Watch on YouTube\]" %}}
+"Libiamo ne'lieti calici" performed by Diana Damrau, Juan Diego Flórez, and the Met Chorus [\[Watch on YouTube\]](https://www.youtube.com/watch?v=afhAqMeeQJk)
 
 IN YOUR DISCUSSION POST FOR THE VERDI : 
 
@@ -41,11 +41,11 @@ IN YOUR DISCUSSION POST FOR THE VERDI : 
 
 **Who is Verdi?**
 
-{{% resource_link "4cb707c2-bd12-4383-b106-322bc0dba002" "\"Verdi, Giuseppe (Fortunino Francesco).\"" %}} *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 6, Schirmer, 2001, pp. 3771–3774. Gale eBooks.
+["Verdi, Giuseppe (Fortunino Francesco)."](https://link.gale.com/apps/doc/CX3491813350/GVRL?u=camb27002&sid=bookmark-GVRL&xid=4df7b8d6) *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 6, Schirmer, 2001, pp. 3771–3774. Gale eBooks.
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see {{% resource_link "32523d77-d270-4541-9387-dd71ea7c1861" "Oxford Reference for timelines of world history by century" %}}.
+OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/).
 
 **Optional**
 
@@ -55,8 +55,8 @@ OPTIONAL: For a wider context, see {{% resource_link "32523d77-d270-4541-9387-dd
 
 **Music drama:** Wagner’s term for his operatic works. 
 
-11:00–21:21 only: Directed by Daniel Barenboim, performed by René Kollo, tenor, Johanna Meier, soprano, and the Bayreuth Festival Chorus and Orchestra,  {{% resource_link "d8891497-723b-4027-9372-a895e7deb670" "\[Listen on YouTube\]" %}}
+11:00–21:21 only: Directed by Daniel Barenboim, performed by René Kollo, tenor, Johanna Meier, soprano, and the Bayreuth Festival Chorus and Orchestra,  [\[Listen on YouTube\]](https://www.youtube.com/watch?v=38PChCsQxgY)
 
-{{% resource_link "08ed061b-ae01-4ef5-a019-57d3f4945681" "Playing Wagner's Music in Israel" %}}, Brandeis University, February 24, 2023.
+[Playing Wagner's Music in Israel](https://www.brandeis.edu/jewish-experience/alumni-friends/2023/february/wagner-israel-miller.html), Brandeis University, February 24, 2023.
 
-{{% resource_link "08eec003-a39f-4a9c-b689-80ad0346d663" "\"Wagner, Richard (1813–1883).\"" %}} *Encyclopedia of European Social History*, edited by Peter N. Stearns, vol. 6: Biographies/Contributors, Charles Scribner's Sons, 2001, pp. 353–356. Gale eBooks.
+["Wagner, Richard (1813–1883)."](https://link.gale.com/apps/doc/CX3460500548/GVRL?u=camb27002&sid=bookmark-GVRL&xid=a4591e97) *Encyclopedia of European Social History*, edited by Peter N. Stearns, vol. 6: Biographies/Contributors, Charles Scribner's Sons, 2001, pp. 353–356. Gale eBooks.

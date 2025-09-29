@@ -19,12 +19,12 @@ Please note: As with any performance, all the performances you will hear are int
 
 ### *From the Baroque*
 
-Antonio Vivaldi, Mandolin Concerto in C Major (concerto) {{% resource_link "772039db-52d5-42ff-8119-6a00c451d233" "\[Listten on YouTube\]" %}}
+Antonio Vivaldi, Mandolin Concerto in C Major (concerto) [\[Listten on YouTube\]](https://www.youtube.com/watch?v=aXBWrNN64z8Links)
 
-J.S. Bach, Variation 30, “Quodlibet” from *Goldberg* *Variations*, BWV 988 (solo keyboard) {{% resource_link "f2929103-39b8-446b-be59-d7ff8d064e4e" "\[Listen on YouTube\]" %}}
+J.S. Bach, Variation 30, “Quodlibet” from *Goldberg* *Variations*, BWV 988 (solo keyboard) [\[Listen on YouTube\]](https://www.youtube.com/watch?v=wM5zDWcDv_0Links)
 
 ### *From the Early Classical style*
 
 Giovanni Battista Sammartini, Sinfonia in A major, I. Presto (symphony)
 
-Movement I only, up until 2:06: {{% resource_link "f0699159-14f9-48a0-88a3-f855690f0791" "\[Listen on YouTube\]" %}}
+Movement I only, up until 2:06: [\[Listen on YouTube\]](https://www.youtube.com/watch?v=vF-QPfSGBlE)

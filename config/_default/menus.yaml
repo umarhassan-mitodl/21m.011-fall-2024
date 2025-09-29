@@ -1,0 +1,376 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 098affc5-b49c-40a2-a03e-118865c10d63
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4bcc6842-ec60-4a26-99cf-c11289769307
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  name: 'Week 1: Music from Continental Europe in the Middle Ages'
+  pageRef: /pages/week-1-intro-music-from-continental-europe-in-the-middle-ages
+  weight: 30
+- identifier: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  name: 'Week 2: More Music from the Middle Ages'
+  pageRef: /pages/week-2-more-music-from-the-middle-ages-court-and-complexity
+  weight: 40
+- identifier: 84f21faa-44fb-409d-9b7d-6c7619f9b16f
+  name: 'Week 3: Music from Continental Europe in the Renaissance'
+  pageRef: /pages/week-3-music-from-continental-europe-in-the-renaissance
+  weight: 50
+- identifier: d512e515-d037-4f92-b8a0-c1c7c9f64d29
+  name: 'Week 4: More Music from the Renaissance'
+  pageRef: /pages/week-4-more-music-from-continental-europe-in-the-renaissance
+  weight: 60
+- identifier: 6380a14a-b860-4447-9d29-5539a3065021
+  name: 'Week 5: Music from Continental Europe in the Baroque: Vocal Genres'
+  pageRef: /pages/week-5-music-from-continental-europe-in-the-baroque-vocal-genres
+  weight: 70
+- identifier: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  name: 'Week 6: More Music from the Baroque: Instrumental Genres'
+  pageRef: /pages/week-6-more-music-from-the-baroque-instrumental-genres
+  weight: 80
+- identifier: 04530708-a8e2-44db-8797-0514224eaa42
+  name: 'Week 7: Codifying and Pushing the Boundaries of the Classical Style'
+  pageRef: /pages/week-7-codifying-and-pushing-the-boundaries-of-the-classical-style
+  weight: 90
+- identifier: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  name: 'Week 8: Late 18th-Century Music for the Church and Court'
+  pageRef: /pages/week-8-late-18th-century-music-for-the-church-and-concert-hall
+  weight: 100
+- identifier: 3d6edb9a-5c22-470a-90fe-e3a562f8385d
+  name: 'Week 9: Music from the 19th Century: Music and Story-Telling'
+  pageRef: /pages/week-9-music-from-the-19th-century-music-and-story-telling
+  weight: 110
+- identifier: 6b3cdd72-e7bc-4cf6-8463-650ca61900b3
+  name: 'Week 10: More Music from the 19th Century: Music for and Inspired by the
+    Voice'
+  pageRef: /pages/week-10-more-music-from-the-19th-century-music-for-and-inspired-by-the-voice
+  weight: 120
+- identifier: 5cbe5dfc-f883-437e-b9bb-b5e5ae342bac
+  name: 'Week 11: The Early 20th Century and Modernism'
+  pageRef: /pages/week-11-the-early-20th-century-and-modernism
+  weight: 130
+- identifier: 30413e7c-8e1b-4a17-8370-3466b5c3abc8
+  name: 'Week 12: More 20th-Century Music: Inspirations'
+  pageRef: /pages/week-12-more-20th-century-music-inspirations
+  weight: 140
+- identifier: a16ecb75-eed3-437d-9364-6d0bd845a6f5
+  name: 'Week 13: Thanksgiving Break and Team Presentations'
+  pageRef: /pages/week-13-thanksgiving-break-and-team-presentations
+  weight: 150
+- identifier: cd590d64-4cb9-4b1a-9038-cb20362f89fb
+  name: 'Week 14: Music in the Early 21st Century'
+  pageRef: /pages/week-14-the-early-21st-century
+  weight: 160
+- identifier: 826f9e0e-ab7c-4911-aa15-971a88eb9adf
+  name: 'Week 15: Where Do We Go from Here?'
+  pageRef: /pages/week-15-where-do-we-go-from-here
+  weight: 170
+- identifier: 2087b201-84a5-4dce-be25-7f18f1fffd1c
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 180
+- identifier: e64044ac-5d87-47ea-9fbf-4abfe7abe89e
+  name: Lecture 1 Listening & Reading
+  pageRef: /pages/week-1-lecture-1-listening-and-reading
+  parent: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  weight: 10
+- identifier: 45c4ee77-7be8-4ce5-b3a6-089ad23bddba
+  name: Recitation 1A (Neff)
+  pageRef: /pages/week-1-recitation-1a-listening-reading-neff
+  parent: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  weight: 20
+- identifier: 9995028e-a2f0-4c71-a194-22d7039df09e
+  name: Recitation 1B (Neff)
+  pageRef: /pages/week-1-recitation-1b-listening-reading-neff
+  parent: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  weight: 30
+- identifier: 378db6f1-ce80-41eb-9436-ef38053f87c3
+  name: Recitation 1A (Goetjen)
+  pageRef: /pages/week-1-recitation-1a-listening-reading-goetjen
+  parent: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  weight: 40
+- identifier: 3a43222d-f1b1-4708-9a1e-a1c681191077
+  name: Recitation 1B (Goetjen)
+  pageRef: /pages/week-1-recitation-1b-listening-reading-goetjen
+  parent: 7a642776-f013-4abb-a99d-6f059cb3e0a6
+  weight: 50
+- identifier: 0afc3b3f-8d07-4d21-9ef8-5d43764632fd
+  name: Lecture 2 Listening & Reading
+  pageRef: /pages/week-2-lecture-2-listening-reading
+  parent: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  weight: 10
+- identifier: 926a198c-c849-49e8-9ddb-81859ff17083
+  name: Recitation 2A Listening & Reading (Neff)
+  pageRef: /pages/week-2-recitation-2a-listening-reading-neff
+  parent: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  weight: 20
+- identifier: b8d882b5-78f1-4ede-8d8d-38305952d37c
+  name: Recitation 2B Listening & Reading (Neff)
+  pageRef: /pages/week-2-recitation-2b-listening-reading-neff
+  parent: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  weight: 30
+- identifier: 012d540d-6099-4293-96d1-7f81cef32b92
+  name: Recitation 2A Listening & Reading (Goetjen)
+  pageRef: /pages/week-2-recitation-2a-listening-reading-goetjen
+  parent: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  weight: 40
+- identifier: 0781c8a7-a62b-4561-9847-607d699fe2a2
+  name: Recitation 2B Listening & Reading (Goetjen)
+  pageRef: /pages/week-2-recitation-2b-listening-reading-goetjen
+  parent: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
+  weight: 50
+- identifier: 3b1c5bd2-27d4-4054-b14f-d0a365f4c652
+  name: Lecture 3 Listening & Reading
+  pageRef: /pages/week-3-lecture-3-music-from-the-renaissance2
+  parent: 84f21faa-44fb-409d-9b7d-6c7619f9b16f
+  weight: 10
+- identifier: 5a9408a4-754c-4ed6-9f52-7580146d6c28
+  name: Recitation 3B Listening & Reading (Neff)
+  pageRef: /pages/week-3-recitation-3b-listening-reading-neff
+  parent: 84f21faa-44fb-409d-9b7d-6c7619f9b16f
+  weight: 20
+- identifier: 5a827e31-9e40-495d-b835-bf284ac1a19f
+  name: Recitation 3B Listening & Reading (Goetjen)
+  pageRef: /pages/week-3-recitation-3b-listening-reading-goetjen
+  parent: 84f21faa-44fb-409d-9b7d-6c7619f9b16f
+  weight: 30
+- identifier: 7e15d360-035e-44a5-9f85-3f4553ad3ebd
+  name: Lecture 4 Listening & Reading
+  pageRef: /pages/week-4-lecture-4-more-music-from-the-renaissance
+  parent: d512e515-d037-4f92-b8a0-c1c7c9f64d29
+  weight: 10
+- identifier: c7f83c75-4ee9-4f3c-a31b-e7e87c1c339e
+  name: Recitation 4B Listening & Reading (Neff)
+  pageRef: /pages/week-4-recitation-4b-listening-reading-neff
+  parent: d512e515-d037-4f92-b8a0-c1c7c9f64d29
+  weight: 20
+- identifier: 58d9c007-34d5-47b6-aebe-202ae675dff0
+  name: Recitation 4B Listening & Reading (Goetjen)
+  pageRef: /pages/week-4-recitation-4b-listening-readinggoetjen
+  parent: d512e515-d037-4f92-b8a0-c1c7c9f64d29
+  weight: 30
+- identifier: 1fddddf4-4bf0-4e07-a32b-6770b44d1e86
+  name: Lecture 5 Listening & Reading
+  pageRef: /pages/week-5-lecture-5-vocal-genres-in-the-baroque
+  parent: 6380a14a-b860-4447-9d29-5539a3065021
+  weight: 10
+- identifier: 518b5c4e-c584-4449-ba60-b8aff568bd41
+  name: Recitation 5A Listening & Reading (Neff)
+  pageRef: /pages/week-5-recitation-5a-listening-reading-neff
+  parent: 6380a14a-b860-4447-9d29-5539a3065021
+  weight: 20
+- identifier: b635a6b8-c353-4dc3-89c3-3c7ee51b1368
+  name: Recitation 5A Listening & Reading (Goetjen)
+  pageRef: /pages/week-5-recitation-5a-listening-reading-goetjen
+  parent: 6380a14a-b860-4447-9d29-5539a3065021
+  weight: 30
+- identifier: ec7b1637-b488-46bc-8de4-12ed1fe25fd9
+  name: Lecture 6 Listening & Reading
+  pageRef: /pages/week-6-lecture-6-instrumental-genres-in-the-baroque
+  parent: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  weight: 10
+- identifier: b2a666d6-b393-4622-83db-ec7c8cce2961
+  name: Recitation 6A Listening & Reading (Neff)
+  pageRef: /pages/week-6-recitation-6a-listening-reading-neff
+  parent: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  weight: 20
+- identifier: c4aab629-0fcf-42d2-ab73-5aecbb03a885
+  name: Recitation 6B Listening & Reading (Neff)
+  pageRef: /pages/week-6-recitation-6b-listening-reading-neff
+  parent: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  weight: 30
+- identifier: af5fbeef-1046-4980-b8dd-5c03727b0c74
+  name: Recitation 6A Listening & Reading (Goetjen)
+  pageRef: /pages/week-6-recitation-6a-listening-reading-goetjen
+  parent: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  weight: 40
+- identifier: b6f8b3d0-4ed7-42c8-a1b3-e148f939c269
+  name: Recitation 6B Listening & Reading (Goetjen)
+  pageRef: /pages/week-6-recitation-6b-listening-reading-goetjen
+  parent: 0d520f15-8ffe-408f-861a-3938c9a955a3
+  weight: 50
+- identifier: 03544483-30ca-4cd7-8f98-daf4f809d3bd
+  name: Lecture 7 Listening & Reading
+  pageRef: /pages/week-7-lecture-7-codifying-and-pushing-boundaries-of-the-classical-style
+  parent: 04530708-a8e2-44db-8797-0514224eaa42
+  weight: 10
+- identifier: 0027d616-b078-4785-a9e9-0bd18413463e
+  name: Recitation 7A Listening & Reading (Neff)
+  pageRef: /pages/week-7-recitation-7a-listening-reading-neff
+  parent: 04530708-a8e2-44db-8797-0514224eaa42
+  weight: 20
+- identifier: ef3fe6af-a08d-4986-a996-aef25809d8b0
+  name: Recitation 7A Listening & Reading (Goetjen)
+  pageRef: /pages/week-7-recitation-7a-listening-reading-goetjen
+  parent: 04530708-a8e2-44db-8797-0514224eaa42
+  weight: 30
+- identifier: 3f80ab22-7895-4e49-9ae5-860f9379be52
+  name: Lecture 8 Listening & Reading
+  pageRef: /pages/week-8-lecture-8-late-18th-century-music-for-the-church-and-concert-hall
+  parent: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  weight: 10
+- identifier: 954a67b2-39e4-4f6c-8b99-29ff32b02dd9
+  name: Recitation 8A Listening & Reading (Neff)
+  pageRef: /pages/week-8-recitation-8a-listening-reading-neff
+  parent: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  weight: 20
+- identifier: cb88f8f3-4659-44f2-8287-19e086733a36
+  name: Recitation 8B Listening & Reading (Neff)
+  pageRef: /pages/week-8-recitation-8b-listening-reading-neff
+  parent: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  weight: 30
+- identifier: f0456dad-f437-445a-bfc6-4bbb60d2f0d0
+  name: Recitation 8A Listening & Reading (Goetjen)
+  pageRef: /pages/week-8-recitation-8a-listening-reading-goetjen
+  parent: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  weight: 40
+- identifier: 833b05ce-9228-4a18-85a6-1a66f05a781b
+  name: Recitation 8B Listening & Reading (Goetjen)
+  pageRef: /pages/week-8-recitation-8b-listening-reading-goetjen
+  parent: 21ee40cf-7238-4a21-bb76-b506aa67074a
+  weight: 50
+- identifier: 3e1a768d-8b6f-41d6-9034-aa68fd7379f1
+  name: Lecture 9 Listening & Reading
+  pageRef: /pages/week-9-lecture-9-continental-europe-in-the-19th-century-music-and-storytelling
+  parent: 3d6edb9a-5c22-470a-90fe-e3a562f8385d
+  weight: 10
+- identifier: 39d1d7ef-69c1-4709-bab5-6e00c75a4a27
+  name: Recitation 9A Listening & Reading (Neff)
+  pageRef: /pages/week-9-recitation-9a-listening-reading-neff
+  parent: 3d6edb9a-5c22-470a-90fe-e3a562f8385d
+  weight: 20
+- identifier: ed35318c-0110-4ab1-9c5b-95d2c6755fda
+  name: Recitation 9A Listening & Reading (Goetjen)
+  pageRef: /pages/week-9-recitation-9a-listening-reading-goetjen
+  parent: 3d6edb9a-5c22-470a-90fe-e3a562f8385d
+  weight: 30
+- identifier: ea00ab31-681d-44fb-b16a-eeb60fb78bb0
+  name: Lecture 10 Listening & Reading
+  pageRef: /pages/lecture-10-19th-century-music-inspired-by-the-voice
+  parent: 6b3cdd72-e7bc-4cf6-8463-650ca61900b3
+  weight: 10
+- identifier: fd2e6b5b-3d61-4d15-a1bd-9c464b0763ca
+  name: Recitation 10B Listening & Reading (Neff)
+  pageRef: /pages/week-10-recitation-10b-listening-reading-neff
+  parent: 6b3cdd72-e7bc-4cf6-8463-650ca61900b3
+  weight: 20
+- identifier: 9b7f79ab-b865-4a4a-b008-34dfd22a246e
+  name: Recitation 10B Listening & Reading (Goetjen)
+  pageRef: /pages/week-10-recitation-10b-listening-reading-goetjen
+  parent: 6b3cdd72-e7bc-4cf6-8463-650ca61900b3
+  weight: 30
+- identifier: b282cebf-cc19-4d36-b7d1-ba47fb4cb8aa
+  name: Lecture 11 Listening & Reading
+  pageRef: /pages/week-11-lecture-11-the-early-20th-century-and-modernism
+  parent: 5cbe5dfc-f883-437e-b9bb-b5e5ae342bac
+  weight: 10
+- identifier: e04d142a-f022-4fe2-9b6b-b8661fd24307
+  name: Recitation 11A Listening & Reading (Neff)
+  pageRef: /pages/week-11-recitation-11a-listening-reading-neff
+  parent: 5cbe5dfc-f883-437e-b9bb-b5e5ae342bac
+  weight: 20
+- identifier: 5b244907-1749-4a26-bc87-cf01909bd4ba
+  name: Recitation 11A Listening & Reading (Goetjen)
+  pageRef: /pages/recitation-11a-listening-reading-goetjen
+  parent: 5cbe5dfc-f883-437e-b9bb-b5e5ae342bac
+  weight: 30
+- identifier: befbd44e-e2be-4a28-ad4e-dc1bddf508aa
+  name: Lecture 12 Listening & Reading
+  pageRef: /pages/week-12-lecture-12-20th-century-music-inspirations
+  parent: 30413e7c-8e1b-4a17-8370-3466b5c3abc8
+  weight: 10
+- identifier: c0f3b407-e96b-49e2-8e7e-0d62426b1283
+  name: Lecture 14 Listening & Reading
+  pageRef: /pages/week-14-lecture-14-music-in-the-early-21st-century
+  parent: cd590d64-4cb9-4b1a-9038-cb20362f89fb
+  weight: 10
+- identifier: 0ab01dd5-986d-4053-bc7d-5be4807b4f5e
+  name: Recitation 14B Listen to This! (Neff)
+  pageRef: /pages/week-14-recitation-14b-listen-to-this-neff
+  parent: cd590d64-4cb9-4b1a-9038-cb20362f89fb
+  weight: 20
+- identifier: 0a02c36d-67a5-46be-9338-48f9dd8d856f
+  name: Recitation 14B Listen to This! (Goetjen)
+  pageRef: /pages/week-14-recitation-14b-listen-to-this-goetjen
+  parent: cd590d64-4cb9-4b1a-9038-cb20362f89fb
+  weight: 30
+- identifier: 0370b2bc-10f5-47b1-8466-5da92526e291
+  name: 'Lecture 15: Where Do We Go from Here?'
+  pageRef: /pages/week-15-lecture-15-where-do-we-go-from-here
+  parent: 826f9e0e-ab7c-4911-aa15-971a88eb9adf
+  weight: 10
+- identifier: 8146dc81-a566-4ed6-a1d5-ac4f3e654050
+  name: Paper Project and Written Assignments
+  pageRef: /pages/paper-project-and-written-assignments
+  parent: 2087b201-84a5-4dce-be25-7f18f1fffd1c
+  weight: 10
+- identifier: 0acc5a79-967b-49ce-a721-6941990f44bb
+  name: Concert Reflection Assignments
+  pageRef: /pages/concert-reflection-assignments
+  parent: 2087b201-84a5-4dce-be25-7f18f1fffd1c
+  weight: 20
+- identifier: c15ecb36-446b-4a8f-b18c-9546bed9de43
+  name: Team Presentation Assignment (Neff)
+  pageRef: /pages/team-presentation-assignment-neff
+  parent: 2087b201-84a5-4dce-be25-7f18f1fffd1c
+  weight: 30
+- identifier: 41113dca-e2c9-48d3-8790-2bbee798ae62
+  name: Team Presentation Assignment (Goetjen)
+  pageRef: /pages/team-presentation-assignment-goetjen
+  parent: 2087b201-84a5-4dce-be25-7f18f1fffd1c
+  weight: 40
+- identifier: b7d51716-4928-4bad-aff6-16151701018c
+  name: Paper - First Version
+  pageRef: /pages/paper-first-version
+  parent: 8146dc81-a566-4ed6-a1d5-ac4f3e654050
+  weight: 10
+- identifier: 50fb6f87-1307-46a2-b535-4f3e50fef068
+  name: Self Assessment Assignment
+  pageRef: /pages/paper-first-version-self-assessment-assignment
+  parent: 8146dc81-a566-4ed6-a1d5-ac4f3e654050
+  weight: 20
+- identifier: ae01ff80-c761-4de9-a3b4-ba01321113e9
+  name: Paper Revision and Expansion Assignment
+  pageRef: /pages/paper-revision-and-expansion-assignment
+  parent: 8146dc81-a566-4ed6-a1d5-ac4f3e654050
+  weight: 30
+- identifier: cf2be2e5-917b-45ce-9bdd-9c918e2b105c
+  name: Concert Reflection 1
+  pageRef: /pages/concert-reflection-1-assignment
+  parent: 0acc5a79-967b-49ce-a721-6941990f44bb
+  weight: 10
+- identifier: 4c8eaf04-bd17-4a38-a8b7-78f52fc9142c
+  name: Concert Reflection 2
+  pageRef: /pages/concert-reflection-2-assignment
+  parent: 0acc5a79-967b-49ce-a721-6941990f44bb
+  weight: 20
+- identifier: de319c55-7369-4b1d-b1fa-db0abc787462
+  name: Concert Reflection 3
+  pageRef: /pages/concert-reflection-3-assginment
+  parent: 0acc5a79-967b-49ce-a721-6941990f44bb
+  weight: 30
+- identifier: 54d1b87f-d991-488f-ae9d-791f55513c3a
+  name: Repertoire for Paper Revision and Expansion
+  pageRef: /pages/paper-revision-and-expansion-repertoire
+  parent: ae01ff80-c761-4de9-a3b4-ba01321113e9
+  weight: 10
+- identifier: d861a7c6-f817-4459-9384-b48e21cb159c
+  name: 'Repertoire: 19th Century'
+  pageRef: /pages/music-from-the-late-19th-century-2-worksmovements
+  parent: ae01ff80-c761-4de9-a3b4-ba01321113e9
+  weight: 20
+- identifier: 220381df-7f59-4a09-aed1-bc1090bb0bea
+  name: 'Repertoire: 20th Century'
+  pageRef: /pages/music-from-the-20th-century-2-works-movements
+  parent: ae01ff80-c761-4de9-a3b4-ba01321113e9
+  weight: 30
+- identifier: 920b0a8a-657a-47a2-922d-00061e313eef
+  name: 'Repertoire: 21st Century'
+  pageRef: /pages/music-from-the-21st-century-2-works-movements
+  parent: ae01ff80-c761-4de9-a3b4-ba01321113e9
+  weight: 40
