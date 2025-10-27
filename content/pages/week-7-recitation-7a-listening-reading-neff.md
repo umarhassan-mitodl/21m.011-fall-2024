@@ -19,6 +19,6 @@ Dr. Bartolo and Marcellina enter. Marcellina says Figaro owes her money and prom
 
 As the Count reflects on all that has happened, Susanna enters and promises to meet him that night. The Count, however, realizes he is being tricked and vows to force Figaro to marry Marcellina. At the trial over Figaro's failure to repay his debt to Marcellina, Don Curzio, the presider, rules in Marcellina’s favor. Figaro says he cannot pay, and cannot marry without his parents’ permission. In a startling revelation, all learn that Figaro is the lost son of Marcellina and Bartolo.
 
-Le nozze di Figaro: "É decisa la lite (Riconosci in questo amplesso)" performed by the UBC Opera Ensemble. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=m7kTS7twWMk) 
+Le nozze di Figaro: "É decisa la lite (Riconosci in questo amplesso)" performed by the UBC Opera Ensemble. {{% resource_link "040f336b-2265-4cd0-9bc0-b30a081e6e03" "[Listen on YouTube]" %}} 
 
 IN YOUR DISCUSSION POST: What do you think was the most surprising moment in this scene? How does music distinguish each character musically? How does the staging and movement of the characters support the action on the stage?

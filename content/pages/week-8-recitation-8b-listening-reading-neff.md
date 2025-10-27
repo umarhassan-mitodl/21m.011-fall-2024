@@ -13,6 +13,6 @@ LISTENING:
 
 ### Ludwig van Beethoven, Piano Sonata No. 8 in C minor, op. 13, "Pathetique," I and II
 
-Performed by Daniel Barenboim. [\[Listen on YouTube\]](https://youtu.be/SrcOcKYQX3c)
+Performed by Daniel Barenboim. {{% resource_link "7a082479-2b58-4433-88b9-c6cf36b7b384" "[Listen on YouTube]" %}}
 
 IN YOUR DISCUSSION POST: The subtitle of this sonata, "Pathetique," means "evoking sympathy or pity." Beethoven chose this title for this work. Describe at least two ways in which Beethoven expresses the idea of "pathetique" in the first two movements of this sonata.

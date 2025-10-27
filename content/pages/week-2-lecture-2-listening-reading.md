@@ -11,17 +11,17 @@ uid: 0afc3b3f-8d07-4d21-9ef8-5d43764632fd
 
 Estampie - One of the earliest known types of dance music, it could be strictly instrumental or have a text. 
 
-[\[Listen on YouTube\]](https://www.youtube.com/watch?v=AyrggAG8aMY)
+{{% resource_link "3d9bd47a-5eaf-478d-a952-f1562ef4664d" "[Listen on YouTube]" %}}
 
 ### Anonymous, “Haec dies” from the Mass for Easter (chant/gradual)
 
-Performed by the Benedictine Monks of the Abbey Münsterschwarzach. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=-irKRiYnP8I) 
+Performed by the Benedictine Monks of the Abbey Münsterschwarzach. {{% resource_link "4dee756d-a43e-4491-b004-9712cbaa75d1" "[Listen on YouTube]" %}} 
 
-Here is [the text and translation of "Haec dies"](https://www.cpdl.org/wiki/index.php/Haec_dies) 
+Here is {{% resource_link "1a2973a5-d87f-48ba-83f3-14fabd32139d" "the text and translation of \"Haec dies\"" %}} 
 
 ### Anonymous, “Haec dies” (organum)
 
-[Listen on YouTube\]](https://www.youtube.com/watch?v=imQeDKcItBA)
+{{% resource_link "d9114393-8ab1-4b1a-bab4-86d501d9a479" "Listen on YouTube]" %}}
 
 This uses the same text as the "Haec dies" chant above, but this is an organum that features polyphony.
 
@@ -31,7 +31,7 @@ Organum: The polyphonic section of a longer composition in which a pre-existing 
 
 ### Anonymous, “O mittissima / Virgo / Haec dies” (motet)
 
-[\[Listen on YouTube\]](https://www.youtube.com/watch?v=7_lrcrT9Q8M)
+{{% resource_link "8c14cec7-b0e3-464b-92a7-2b29759caec2" "[Listen on YouTube]" %}}
 
 Motet: A sacred, polyphonic composition with a Latin text.
 
@@ -59,16 +59,16 @@ Remember that musical elements include the following: 
 
 In class, we will also discuss and listen to the music of Hildegard of Bingen. Read more below.
 
-[Hildegard of Bingen: Oxford Reference, Encyclopedia of the Middle Ages](https://www.oxfordreference.com/display/10.1093/acref/9780227679319.001.0001/acref-9780227679319-e-1315?rskey=IpTqkX&result=1)
+{{% resource_link "71b19332-8225-46da-ac7b-8c1f16a0e770" "Hildegard of Bingen: Oxford Reference, Encyclopedia of the Middle Ages" %}}
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines) 
+OPTIONAL: For a wider context, see {{% resource_link "9a90543c-aedd-4542-977f-d5857de24d9b" "Oxford Reference for timelines of world history by century" %}} 
 
 ## Extra Resources
 
-From lecture 2: [La Quinte estampie réale,](https://youtu.be/-s_qggmxLKI?si=hkFZkZNcbkH9pqkK) performed by AELIS. [\[Listen on YouTube\]](https://youtu.be/-s_qggmxLKI?si=hkFZkZNcbkH9pqkK)
+From lecture 2: {{% resource_link "ec36b81c-29fe-4713-9252-ab121959dfc6" "La Quinte estampie réale," %}} performed by AELIS. {{% resource_link "ec36b81c-29fe-4713-9252-ab121959dfc6" "[Listen on YouTube]" %}}
 
-Animated manuscript of "The Harp," a secular polyphonic work from the late 14th century [\[Listen on YouTube\]](https://www.youtube.com/watch?v=Vm6WqK3cr_8)
+Animated manuscript of "The Harp," a secular polyphonic work from the late 14th century {{% resource_link "c0e6c7ae-de40-4168-a36a-b80fa1b9cb12" "[Listen on YouTube]" %}}
 
-Animated manuscript of "Tout par compas" by Baude Cordier [\[Listen on YouTube\]](https://www.youtube.com/watch?v=iaeOWdXM4Pg)
+Animated manuscript of "Tout par compas" by Baude Cordier {{% resource_link "2202e598-c96a-4387-859b-c743ba2af6ce" "[Listen on YouTube]" %}}

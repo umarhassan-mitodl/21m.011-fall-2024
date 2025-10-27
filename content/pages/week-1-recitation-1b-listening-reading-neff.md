@@ -9,7 +9,7 @@ uid: 9995028e-a2f0-4c71-a194-22d7039df09e
 
 ### Guirat de Bornelh, “Reis Glorios” (troubadour song)
 
-Joel Nesvadba: "Troubadour song, Reis Glorios" [\[Listen on YouTube\]](https://www.youtube.com/watch?v=CNBUtL-u0dY)
+Joel Nesvadba: "Troubadour song, Reis Glorios" {{% resource_link "61f295a9-7fc9-49eb-83cc-2b9298e93fa2" "[Listen on YouTube]" %}}
 
 #### Discussion
 

@@ -19,13 +19,13 @@ A prolific composer of chansons, Machaut added some notable innovations to the g
 
 Our example is Machaut’s chanson “Dame, de qui toute ma joie vient.” It forms a part of a longer narrative poem called *Le remède de Fortune* (“The Cure of Ill Fortune”) written sometime in the 1340s. Some parts of this long poem were set to music as individual chansons. The basic story of the longer poem is that the speaker of the poem is asked by his lady if the poem she has found was written by him. He flees, presumably in embarrassment; later, in a garden, the personification of Hope teaches him to be a good lover. Finally, he returns to his lady.
 
-See [this image of the ballade from a manuscript copy of *Le remède de Fortune*](https://upload.wikimedia.org/wikipedia/commons/b/b9/Dame_de_qui_toute.jpg). As with Machaut’s motet last class, notice how there are indications of specific rhythms with the use of different shapes of noteheads and the use of stems on some notes. This manuscript page contains only two of the four parts: the superius (top part) starts on the first staff, while the tenor begins in the middle of the fifth staff.
+See {{% resource_link "b204769b-cd7d-45ca-ba7f-4c854991d6e6" "this image of the ballade from a manuscript copy of *Le remède de Fortune*" %}}. As with Machaut’s motet last class, notice how there are indications of specific rhythms with the use of different shapes of noteheads and the use of stems on some notes. This manuscript page contains only two of the four parts: the superius (top part) starts on the first staff, while the tenor begins in the middle of the fifth staff.
 
 Because of the four vocal parts and the proliferation of melismas in each voice, the words can be difficult to understand. Furthermore, it is unclear whether the emotion of the poem is clearly reflected in the music or if that was even Machaut’s intention at all. But nonetheless, I encourage you to read the translation carefully and listen to the piece a few times to decide for yourselves whether the music reflects the meaning of the text.
 
 ### Guillaume de Machaut, “Dame, de qui toute ma joie vient,” chanson ballade, (c. 1340s)
 
-Recording performed by Liber unUsualis. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=zyvOVhidZRE)
+Recording performed by Liber unUsualis. {{% resource_link "43af6275-a38a-41a8-af9a-3e5f8a50290c" "[Listen on YouTube]" %}}
 
 Translation (source unknown):
 
@@ -205,7 +205,7 @@ In the recording we will listen to, you will hear an interesting interpretation 
 
 ### Guillaume de Machaut, “Douce Dame Jolie,” chanson virelai, 14th century
 
-Recording performed by the Early Music Consort of London, directed by David Munrow. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=u65rzEfxbqA)
+Recording performed by the Early Music Consort of London, directed by David Munrow. {{% resource_link "37a8996f-90b6-4953-b22e-45cb81720cad" "[Listen on YouTube]" %}}
 
 As you read the poem and listen to the music, think once again about whether the music reflects the emotion and meaning of the poem. Note that the refrain is given in italics while the rest of each verse is in regular print. The right hand column indicates which part of the melody (A or B) is sung for which lines of text.
 

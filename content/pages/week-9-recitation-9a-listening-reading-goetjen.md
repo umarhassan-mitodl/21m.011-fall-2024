@@ -185,7 +185,7 @@ In his arms, the child was dead.
 
 #### Schubert's "Erlkönig" (1815)
 
-While many composers have set this text to music, Schubert’s version is now probably the most famous and best-known setting. One of the few pieces by Schubert that was published within his own lifetime, his "Erlkönig" was an immediate hit with everyone, it seems, except Goethe himself, who did not like the through-composed form (as opposed to strophic). See [this image of the title page of an early published edition of this song](https://digfir-published.macmillanusa.com/listen8e/asset/img_ch17/69854_KER08E_CH17_17UN01.html), including an illustration of the scene.
+While many composers have set this text to music, Schubert’s version is now probably the most famous and best-known setting. One of the few pieces by Schubert that was published within his own lifetime, his "Erlkönig" was an immediate hit with everyone, it seems, except Goethe himself, who did not like the through-composed form (as opposed to strophic). See {{% resource_link "f7d206ba-f00e-4e2e-8be5-fa30a9ebe652" "this image of the title page of an early published edition of this song" %}}, including an illustration of the scene.
 
 His through-composed music deftly depicts the different characters. Despite the through-composed form, some melodies do return, but not enough to be considered strophic. In addition, the piano part is somewhat independent and helps to depict the story. However, the piano does not have an equal role to the voice, and remains as accompaniment throughout.
 
@@ -195,7 +195,7 @@ The singer is required to depict each character differently. To allow this, Schu
 
 Recording performed by Thomas Quastoff (baritone) and Charles Spencer (piano).
 
-Finally, it is important to remember that these pieces, when performed live, include the performer's movements, gestures, and facial expressions as visual components of the performance in addition to the music. So portraying the characters in this song is partly the singer's voice, partly the composer's music, and partly the singer's performance movements. Watch [this video \[YouTube\].](https://www.youtube.com/watch?v=PaBNUzVSnj8) of renowned baritone Dietrich Fischer-Dieskau performing "Erlkönig" and see how he portrays each character with his face.
+Finally, it is important to remember that these pieces, when performed live, include the performer's movements, gestures, and facial expressions as visual components of the performance in addition to the music. So portraying the characters in this song is partly the singer's voice, partly the composer's music, and partly the singer's performance movements. Watch {{% resource_link "e81adfca-b492-41b9-a220-b5f99ce18848" "this video [YouTube]." %}} of renowned baritone Dietrich Fischer-Dieskau performing "Erlkönig" and see how he portrays each character with his face.
 
 ### Clara Schumann
 
@@ -331,7 +331,7 @@ The fact that the first line of each stanza is the same invites a strophic setti
 
 ### Robert Schumann, "Im wunderschönen Monat Mai" (strophic Lied), 1840
 
-Recording performed by Fritz Wunderlich (tenor) and Hubert Giesen (piano). [\[Listen on YouTube\]](https://www.youtube.com/watch?v=-cclZG_EFJc)
+Recording performed by Fritz Wunderlich (tenor) and Hubert Giesen (piano). {{% resource_link "1ee9c703-c96e-4b3e-8c96-1618de074afc" "[Listen on YouTube]" %}}
 
 **Hensel's "Im wunderschönen Monat mai"**
 
@@ -341,7 +341,7 @@ It is quite possible that Hensel was simply trying to write a setting that refle
 
 ### Hensel, "Im wunderschönen Monat Mai" (modified strophic Lied) (duet), 1837
 
-Recording performed by Felicitas and Judith Erb (sopranos) and Doriana Tchakarova (piano). [\[Listen on YouTube\]](https://www.youtube.com/watch?v=dq1PjknXm_k)
+Recording performed by Felicitas and Judith Erb (sopranos) and Doriana Tchakarova (piano). {{% resource_link "e5689802-ba00-41ba-b002-1135821e5b1d" "[Listen on YouTube]" %}}
 
 ## Discussion Questions
 

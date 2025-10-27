@@ -17,4 +17,4 @@ You will be listening to two movements from Handel's *Water Music*: Gigue and Mi
 
 The Gigue begins at 42:24 and ends at 43:52. The Minuet begins at 43:53 and ends at 46:24.
 
-Recording by Akademie für alte Musik Berlin. [\[Listen on YouTube\]](https://youtu.be/EVAB2z1RPu4?si=atG-pppPZbrPyWN_&t=2544Links)
+Recording by Akademie für alte Musik Berlin. {{% resource_link "e1397a1c-efdf-4dbb-8939-9a528584e10d" "[Listen on YouTube]" %}}

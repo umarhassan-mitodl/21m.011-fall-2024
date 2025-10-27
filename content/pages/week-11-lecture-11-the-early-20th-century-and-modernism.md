@@ -13,17 +13,17 @@ uid: b282cebf-cc19-4d36-b7d1-ba47fb4cb8aa
 
 A story or drama presented through choreography and music.  
 
-0:17–3:29 only: Performed by the **Ballets Russes.** [\[Listen on YouTube\]](https://www.youtube.com/embed/V_LrFJsgmJc?start=17&end=209)
+0:17–3:29 only: Performed by the **Ballets Russes.** {{% resource_link "26cc4af6-ab02-4c83-a644-2c89d03b8462" "[Listen on YouTube]" %}}
 
 ### Igor Stravinsky – opening from *The Rite of Spring* (ballet)
 
 Performed by the Joffrey Ballet in 1987 (reconstruction of original debut performance).
 
-[\[Listen on YouTube\]](https://www.youtube.com/watch?v=jF1OQkHybEQ)
+{{% resource_link "6036b5bb-9e1c-4b5b-be2c-500a9aca6224" "[Listen on YouTube]" %}}
 
 ### Maurice Ravel – *Boléro* (ballet)
 
-0:39–5:26 only: Performed by the London Symphony Orchestra. [\[Listen on YouTube\]](https://www.youtube.com/embed/KTAE5HWkz6A?start=39&end=326)
+0:39–5:26 only: Performed by the London Symphony Orchestra. {{% resource_link "04412e26-617c-4025-a34b-b88c5fa3223a" "[Listen on YouTube]" %}}
 
 IN YOUR DISCUSSION POST:
 
@@ -35,16 +35,16 @@ IN YOUR DISCUSSION POST:
 
 **Who is Debussy?**
 
-[Debussy, (Achille-)Claude - Oxford Reference](https://www.oxfordreference.com/search?q=claude+debussy&searchBtn=Search&isQuickSearch=true)
+{{% resource_link "1e6fb82d-7d10-4516-ad44-58bd2bdd4f82" "Debussy, (Achille-)Claude - Oxford Reference" %}}
 
 **Who is Stravinsky?**
 
-[Stravinsky, Igor (Fyodorovich) - Oxford Reference](https://www.oxfordreference.com/search?q=igor+stravinsky&searchBtn=Search&isQuickSearch=true)
+{{% resource_link "5ffa4dc4-41c4-490c-ae7f-e848975f7f69" "Stravinsky, Igor (Fyodorovich) - Oxford Reference" %}}
 
 **Who is Ravel?**
 
-[Ravel, (Joseph) Maurice - Oxford Reference](https://www.oxfordreference.com/search?q=maurice+ravel&searchBtn=Search&isQuickSearch=true)
+{{% resource_link "c0cce009-60c0-42a0-b864-4b862e696594" "Ravel, (Joseph) Maurice - Oxford Reference" %}}
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines).
+OPTIONAL: For a wider context, see {{% resource_link "9a90543c-aedd-4542-977f-d5857de24d9b" "Oxford Reference for timelines of world history by century" %}}.

@@ -2,8 +2,6 @@
 content_type: page
 description: Describes the course and content.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Syllabus
 uid: 098affc5-b49c-40a2-a03e-118865c10d63
 ---
@@ -23,7 +21,7 @@ There are no prerequisites for this course.
 
 This subject will offer a broad overview of musical works that are generally described as Western classical music. Beginning with the earliest notated music in Western Europe (plainchant used in worship services) and ending with recent works written by contemporary composers, 21M.011 considers this repertoire to be part of a living tradition of composition, performance, and listening. Our goal as instructors is to encourage you to engage as fully and thoughtfully as possible with this repertoire, whether you consider yourself an experienced musician or a novice listener. For every student, there will be new skills to learn, new sounds to hear, and new ways of thinking and communicating about music.
 
-This course is a designated [Communications-Intensive in the Humanities, Arts, and Social Sciences (CI-H)](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects), [HASS-A subject](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement).
+This course is a designated {{% resource_link "f5cc00c5-debc-47c8-9921-14cc99548642" "Communications-Intensive in the Humanities, Arts, and Social Sciences (CI-H)" %}}, {{% resource_link "82052778-cad4-4a42-9f3f-38412e82b8d4" "HASS-A subject" %}}.
 
 ## Course Objectives
 

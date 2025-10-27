@@ -30,9 +30,9 @@ tutto tremar d'un amoroso gielo.                       tremble, whol
 
 The poem here is divided into three parts: two stanzas and a ritornello. Jacopo responds to this poetic organization by setting the two stanzas to the same music and providing a clear change of both texture and meter for the ritornello (the last two lines). Where previously in the stanzas, the meter was duple and the two voice parts were clearly distinct, in the ritornello, it switches to a triple meter and the voice parts align a little more closely in terms of rhythm, sometimes even verging on homophony (though not quite, it's too early for that). Take a listen to this piece and follow along with the text. Try to hear how the music repeats or changes to highlight the structure of the poem. While we don't have yet a clear relationship between the music and the text, there is a kind of sensuality to the music, especially in the higher voice with its winding and elaborate melismas but also in the intertwining of the two voices as they come together in pitch and move apart, then repeat.
 
-Jacopo da Bologna, "[Non al suo amante](https://www.youtube.com/watch?v=4g92kBmgOQA)" (two-voice madrigal), ca. 1350. 
+Jacopo da Bologna, "{{% resource_link "76341673-089e-482d-b146-9071aa502376" "Non al suo amante" %}}" (two-voice madrigal), ca. 1350. 
 
-Recording performed by La Fonte Musica, directed by Michele Pasotti. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=4g92kBmgOQA)
+Recording performed by La Fonte Musica, directed by Michele Pasotti. {{% resource_link "76341673-089e-482d-b146-9071aa502376" "[Listen on YouTube]" %}}
 
 ### Jacques Arcadelt
 
@@ -90,15 +90,15 @@ I would be content to die a thousand deaths a day.
 
 But there is more hiding under the surface of this poem that would have been known to a 16th-century Italian, although today we might not get it right away. In that period, "death" was often a double entendre (having an implied second meaning, usually referencing something taboo), where death could actually refer not to literal death but instead to sexual release. Think of the French saying, "La petite mort," the little death. In any case, 16th-century readers and listeners would have known this, and in that context, the poem takes on a completely different meaning. References to "die\[ing\] joyfully" and "a death that fulfills me" and "be\[ing\] happy to die a thousand deaths a day," suddenly imply a more sexual meaning. Arcadelt was certainly aware of this when setting the text to music.
 
-By the 16th century, Italian madrigals were typically published in partbooks, that is little books which have each part written out separately. It was not common to publish these in full score as they were primarily intended for casual performance settings such as social gatherings at home. Each singer would read his or her part only from a partbook, and the friends or family who gathered would sing together. Image of [the printed "cantus" part from this madrigal as it appears in a 16th-century partbook](https://stcpress.org/miscellaneous/il_bianco/il_bianco_cantus.jpg).
+By the 16th century, Italian madrigals were typically published in partbooks, that is little books which have each part written out separately. It was not common to publish these in full score as they were primarily intended for casual performance settings such as social gatherings at home. Each singer would read his or her part only from a partbook, and the friends or family who gathered would sing together. Image of {{% resource_link "c430bfb9-9d69-4e8a-b650-68bbe708a318" "the printed \"cantus\" part from this madrigal as it appears in a 16th-century partbook" %}}.
 
 In his madrigal setting from about 1539, Arcadelt begins the piece with mostly homophonic vocal texture, as the four voice parts move together in roughly the same rhythm and words on different pitches. Early on, the piece is fairly innocent and doesn't yet give away the double entendre that is to come. Notably, though, he uses a technique called **word painting** in the third line of the poem. In word painting, the music reflects the meaning of the text in a very direct way, sometimes quite literally. On the word "piangendo," which means weeping, Arcadelt brings in an unusual sounding chord which is not part of the mode in which this piece is otherwise written. He uses **chromatic notes** or pitches outside the mode of the piece for dramatic effect. Thus, the word "piangendo" is highlighted and emphasized by strange-sounding harmony. To our ears, used to much stranger harmonies, it might not sound that odd at all. But to a 16th-century listener, it would certainly stand out. This happens twice in a row, starting at about 0:13 in the recording below.
 
 Later in the piece, however, he really leans into the implied sexual connotation. On the last line, "I would be content to die a thousand deaths a day," the texture breaks out into imitative polyphony, as each voice sings the same melody on those words but at different times in an overlapping way, that builds and builds the tension until it finally releases and comes to rest on a **cadence** (musical closing) that ends the piece. Then this bit repeats once again, just in case you didn't get it the first time. Take a listen to this piece and see if you can not only focus on these two examples of text setting but possibly find other places in the text where he emphasizes the words either through word painting or a change in texture.
 
-Arcadelt, "[Il bianco e dolce cigno](https://www.youtube.com/watch?v=1vhERjGetns)" (Italian madrigal), 1539
+Arcadelt, "{{% resource_link "b09bac17-7104-4325-a782-4ca89d2cab2f" "Il bianco e dolce cigno" %}}" (Italian madrigal), 1539
 
-Recording performed by Bella Voce Chicago Ensemble. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=1vhERjGetns)
+Recording performed by Bella Voce Chicago Ensemble. {{% resource_link "b09bac17-7104-4325-a782-4ca89d2cab2f" "[Listen on YouTube]" %}}
 
 ### John Farmer and Thomas Morley
 
@@ -124,7 +124,7 @@ The word painting in this piece can be found throughout, but a few notable examp
 
 ### John Farmer, "Fair Phyllis I Saw Sitting All Alone" (English madrigal), 1599 
 
-Recording performed by The King's Singers. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=A3yy_ZT_e64)
+Recording performed by The King's Singers. {{% resource_link "33a778e7-74f2-4505-b5e2-44fe197e3235" "[Listen on YouTube]" %}}
 
 ### Claudio Monteverdi
 
@@ -370,11 +370,11 @@ Sung by trio of two tenors and one bass (not in our listening excerpt)
 
 For our listening, I'd like to focus on the lament itself. Listen for the instrumental part that starts in the beginning. The instruments (including a harpsichord!) play a repeating bassline that doesn't change throughout the whole piece, which is called a **ground bass**. This descending bassline, which moves slowly by step, came to be known as a **lament bass** because of its frequent use in pieces like this. The soprano in this recording does a great job of evoking the emotion of her character here, while the men are fairly neutral, even as they express sympathy for her.
 
-Here is [one page of this madrigal as it was printed in the 17th century](https://andrewlawrenceking.com/wp-content/uploads/2018/12/lamento-della-ninfa.png). This page shows just one part of the trio at the top. Then below that, the lament itself begins, with each part laid out in score. The nymph's (soprano) part is on top, followed by the trio, then the instrumental ground bass is printed at the bottom. In our recording, you will hear the harpsichord filling in some of the harmony above the ground bass, using a practice called **basso continuo,** which we will cover in more detail in the coming weeks. 
+Here is {{% resource_link "ef5846c7-9561-43bb-8467-633f68e7d765" "one page of this madrigal as it was printed in the 17th century" %}}. This page shows just one part of the trio at the top. Then below that, the lament itself begins, with each part laid out in score. The nymph's (soprano) part is on top, followed by the trio, then the instrumental ground bass is printed at the bottom. In our recording, you will hear the harpsichord filling in some of the harmony above the ground bass, using a practice called **basso continuo,** which we will cover in more detail in the coming weeks. 
 
-Monteverdi, "[Lamento della Ninfa](https://www.youtube.com/watch?v=8kFz-tZ6HWQ)" (concerted madrigal), 1638
+Monteverdi, "{{% resource_link "466517d2-9312-47d3-a5d8-c9969aacc54e" "Lamento della Ninfa" %}}" (concerted madrigal), 1638
 
-Recording performed by La Venexiana. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=8kFz-tZ6HWQ)
+Recording performed by La Venexiana. {{% resource_link "466517d2-9312-47d3-a5d8-c9969aacc54e" "[Listen on YouTube]" %}}
 
 ## Discussion Questions
 

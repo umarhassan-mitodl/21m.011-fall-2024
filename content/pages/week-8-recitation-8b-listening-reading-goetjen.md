@@ -11,11 +11,11 @@ Like Mozart, Beethoven was an accomplished piano virtuoso who frequently perform
 
 The **sonata** as a genre has roots in the 17th century in which it referred to a piece for one or more instruments (sonata is from the Italian word meaning "to sound"). At that time, sonatas could take many forms and involve many different instruments, but as the 18th century progressed, it came to mean a piece for generally one solo instrument alone, or maybe two instruments (generally a solo melody instrument with basso continuo accompaniment). By Beethoven's time, this had more or less solidified into subgenres such as the piano sonata (for piano alone), the violin sonata (violin solo with piano accompaniment), and many others.
 
-Furthermore, it is impossible to talk about Beethoven without considering the impact of his deafness on his life and music. While he gradually lost his hearing, rather than losing it all at once, this was something he had to wrestle with throughout his life. In fact, at one point in 1802, he considered committing suicide, even going so far as to write a letter to his brothers, now known as the Heiligenstadt Testament, which would have acted as a sort of suicide note. However, he never sent the letter and never attempted to take his own life, instead choosing to live with his deafness. See [a facsimile of the original letter](https://en.wikipedia.org/wiki/Heiligenstadt_Testament#/media/File:Beethoven_Heiligenstaedter_Testament.jpg), which has been preserved.
+Furthermore, it is impossible to talk about Beethoven without considering the impact of his deafness on his life and music. While he gradually lost his hearing, rather than losing it all at once, this was something he had to wrestle with throughout his life. In fact, at one point in 1802, he considered committing suicide, even going so far as to write a letter to his brothers, now known as the Heiligenstadt Testament, which would have acted as a sort of suicide note. However, he never sent the letter and never attempted to take his own life, instead choosing to live with his deafness. See {{% resource_link "8979515f-3650-42d4-8269-863d106bed12" "a facsimile of the original letter" %}}, which has been preserved.
 
-In the course of this loss of hearing, he developed ways to cope with it, including constructing a *Gehörmaschine* or hearing machine which was essentially a dome that he put on top of his piano to funnel the sound forward to the player, thereby amplifying it. Take a minute to watch [this video about the work that musicologist Tom Beghin and others have done to reconstruct this device](https://www.youtube.com/watch?v=XVqVs_eAN5k) and try to understand Beethoven's experience in playing with hearing loss.
+In the course of this loss of hearing, he developed ways to cope with it, including constructing a *Gehörmaschine* or hearing machine which was essentially a dome that he put on top of his piano to funnel the sound forward to the player, thereby amplifying it. Take a minute to watch {{% resource_link "75fd4f6f-76c4-457d-8e38-bd2eb5695d6b" "this video about the work that musicologist Tom Beghin and others have done to reconstruct this device" %}} and try to understand Beethoven's experience in playing with hearing loss.
 
-A couple of the recordings I've assigned for you to listen to are played by Beghin as part of this project. All of them are performed on pianos that are similar to what Beethoven would have used. They will sound slightly different to Mozart's piano which you listened to last class, but still different from the modern piano. Pay attention to these differences as there is a discussion question below about the topic. [Here is an image of one of Beethoven's pianos, made by the English piano manufacturer John Broadwood & Sons](https://azure.wgp-cdn.co.uk/app-pianist/posts/BROADWOODLondon1817replicaBeethovensPiano.jpg), founded in 1728 and still operating today. Beethoven received this piano in 1818 as a gift from Thomas Broadwood (one of John's sons).
+A couple of the recordings I've assigned for you to listen to are played by Beghin as part of this project. All of them are performed on pianos that are similar to what Beethoven would have used. They will sound slightly different to Mozart's piano which you listened to last class, but still different from the modern piano. Pay attention to these differences as there is a discussion question below about the topic. {{% resource_link "b0ae7a2e-2706-472e-91fd-d93cfb41bde2" "Here is an image of one of Beethoven's pianos, made by the English piano manufacturer John Broadwood & Sons" %}}, founded in 1728 and still operating today. Beethoven received this piano in 1818 as a gift from Thomas Broadwood (one of John's sons).
 
 **Early Period (1792–1802)**
 
@@ -23,7 +23,7 @@ One of the best-known piano sonatas from Beethoven's early period is his Piano S
 
 ### Beethoven, Piano Sonata No. 8 in C minor, Op. 13, "Pathétique" (1798)
 
-Recording performed by Tom Beghin. [\[Listen on YouTube\]](https://youtu.be/-A1a8PCQfP0?si=-DOSCNj5_XiG1Bx-)
+Recording performed by Tom Beghin. {{% resource_link "23ea49f2-b42e-461d-b214-1df55e864a37" "[Listen on YouTube]" %}}
 
 Slow introduction: 0:00–1:44 (quasi-improvisatory, highly chromatic and meant to sound unmetered, but is actually specifically written out carefully)
 
@@ -75,7 +75,7 @@ Where the Pathétique sonata featured fast, rhythmically driven sections intersp
 
 ### Beethoven, Piano Sonata No. 21 in C major, Op. 53, "Waldstein" (1804)
 
-Recording performed by Ronald Brautigam. [\[Listen on YouTube\]](https://youtu.be/iqKUx7CQWK8?si=9hPKVytT1XL7pYx1)
+Recording performed by Ronald Brautigam. {{% resource_link "9e253e96-06cf-4303-b7c1-14a453e6a9d3" "[Listen on YouTube]" %}}
 
 Exposition: 0:00–2:10
 
@@ -109,13 +109,13 @@ Final coda: 8:26–10:00 (fairly extensive, features multiple themes from earlie
 
 **Late Period (1813–1827)**
 
-Beethoven's late period is characterized by an inward turn, likely due to the complete loss of hearing he experienced during this time. While there are compositions from this time that are large, outgoing and joyous such as the finale to the Ninth Symphony ("Ode to Joy"), many of his chamber works, such as piano sonatas and string quartets, show a more introspective and experimental style. The late string quartets are especially known for a variety of unusual compositional techniques, but his late piano sonatas show this influence as well. For instance, in terms of sonata form, he begins to treat the form very loosely, more as a suggestion than a template. See [this image of an anonymous painting of Beethoven later in life working at the piano](https://upload.wikimedia.org/wikipedia/commons/a/a3/Beethovenhome.JPG). This was painted around 1890, so it is the artist's imagining of this scene, not a firsthand account. But it depicts very well the popular image of Beethoven in his late period as the messy artist solely focused on his work.
+Beethoven's late period is characterized by an inward turn, likely due to the complete loss of hearing he experienced during this time. While there are compositions from this time that are large, outgoing and joyous such as the finale to the Ninth Symphony ("Ode to Joy"), many of his chamber works, such as piano sonatas and string quartets, show a more introspective and experimental style. The late string quartets are especially known for a variety of unusual compositional techniques, but his late piano sonatas show this influence as well. For instance, in terms of sonata form, he begins to treat the form very loosely, more as a suggestion than a template. See {{% resource_link "ec509aad-1960-482a-891b-55126ec1331a" "this image of an anonymous painting of Beethoven later in life working at the piano" %}}. This was painted around 1890, so it is the artist's imagining of this scene, not a firsthand account. But it depicts very well the popular image of Beethoven in his late period as the messy artist solely focused on his work.
 
 For example, let's look at the first movement of his Piano Sonata No. 30 in E major, Op. 109 (1820). This movement is definitely in sonata form, but it does not follow many of the conventions. First, there is no transition/bridge theme, and second, the two themes of the exposition are not just in different keys but also in different tempos and meters! Also, the second theme starts on a very harmonically ambiguous chord, so it's not for a while that the second key of B major is made clear. Skipping the traditional repeat of the exposition, the development is quite short and really only deals with the first theme very briefly, while the recapitulation is strikingly different from the exposition, not just in terms of key. Finally, the coda brings back the first theme again, so the only guiding principle of this movement is that the first theme is present in all parts of the form. Look at the form guide below and follow along as you listen:
 
 ### Beethoven, Piano Sonata No. 30 in E major, Op. 109 (1820)
 
-Recording performed by Tom Beghin. [\[Listen on YouTube\]](https://youtu.be/cokmbG7PSEs?si=Fmd_ylRgB6JdvWq6)
+Recording performed by Tom Beghin. {{% resource_link "43918db2-4f97-4ce4-92ef-767a02deed5e" "[Listen on YouTube]" %}}
 
 Exposition: 0:00-0:59
 

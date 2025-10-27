@@ -7,7 +7,7 @@ uid: b8d882b5-78f1-4ede-8d8d-38305952d37c
 ---
 ### Baude Cordier, “Tout par compass” (secular song)
 
-[\[Listen on YouTube\]](https://www.youtube.com/watch?v=D6laeFz0xtM)
+{{% resource_link "d6bd590a-844b-499a-a9a8-850cf7372017" "[Listen on YouTube]" %}}
 
 IN YOUR DISCUSSION POST: Identify one aspect of this piece that you hear as especially appealing and one aspect of this piece that you found surprising or unexpected. Please be sure to share a timing from the piece to illustrate your answers. 
 

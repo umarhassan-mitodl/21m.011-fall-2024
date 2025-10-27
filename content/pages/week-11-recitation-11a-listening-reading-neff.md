@@ -13,7 +13,7 @@ To begin, one Lied (song):
 
 ### Schoenberg, "Der Mondfleck" from the song cycle *Pierrot lunaire* ("Pierrot touched by the moon")
 
-"Der Mondfleck" begins at 29:33 and ends at 30:48. Performed by Ildikó Iván, soprano, and the Chicago Symphony Orchestra. [\[Listen on YouTube\]](https://youtu.be/bd2cBUJmDr8?si=WPr8r0VXmRdqiDmR&t=1773)
+"Der Mondfleck" begins at 29:33 and ends at 30:48. Performed by Ildikó Iván, soprano, and the Chicago Symphony Orchestra. {{% resource_link "3f7a9867-a20c-4bb6-a69e-d3224777e98e" "[Listen on YouTube]" %}}
 
 The German text is translated in the video.
 
