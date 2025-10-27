@@ -17,7 +17,7 @@ In the latter half of the 19th century, many European composers were interested 
 
 Since many in America were interested in establishing a similar national musical style in the last decade of the 19th century, they reached out to Dvořák and asked if he would consider taking a position as artistic director and professor of composition at the National Conservatory of Music in America (in New York City). He eventually accepted and moved to New York in 1893. While in America, he sought out uniquely American styles of folk music, including African-American spirituals, Native American melodies, and Scots-Irish folk music. In particular, he learned about spirituals from a student at the conservatory named Harry T. Burleigh, who would later go on to work as a composer himself. Absorbing these various folk styles, Dvořák distilled a few different musical elements that they had in common and attempted to work them into the music he wrote during this time as a way of demonstrating how an American national musical style could be constructed.
 
-Unfortunately, most white American composers were interested only in European classical music and disdained the use of these (mostly non-white) folk musics, even if they were specifically American. Some American composers, such as Louis Moreau Gottschalk and Burleigh himself in the 19th century as well as William Grant Still and Florence Price (see below) in the 20th century, would use spirituals or other African-American music as inspiration. Despite Dvořák’s celebrity during his time in America, his influence on creating an American national musical style was limited. Primarily, this inspiration is reflected in his best-known piece, the Symphony No. 9 in E minor, "From the New World," also known as the New World Symphony. While we will not discuss this directly, if you are interested, you can listen to a great recording of this piece [\[Listen on YouTube\]](https://www.youtube.com/watch?v=9buVlnv3788&t=1s). Here is [an image of the title page of Dvořák’s autograph score](https://upload.wikimedia.org/wikipedia/commons/f/ff/The_title_page_of_the_autograph_score_of_Dvo%C5%99%C3%A1k%27s_ninth_symphony.jpg).
+Unfortunately, most white American composers were interested only in European classical music and disdained the use of these (mostly non-white) folk musics, even if they were specifically American. Some American composers, such as Louis Moreau Gottschalk and Burleigh himself in the 19th century as well as William Grant Still and Florence Price (see below) in the 20th century, would use spirituals or other African-American music as inspiration. Despite Dvořák’s celebrity during his time in America, his influence on creating an American national musical style was limited. Primarily, this inspiration is reflected in his best-known piece, the Symphony No. 9 in E minor, "From the New World," also known as the New World Symphony. While we will not discuss this directly, if you are interested, you can listen to a great recording of this piece {{% resource_link "d994459a-c847-4e29-b67d-b9e215ece785" "[Listen on YouTube]" %}}. Here is {{% resource_link "44c7a128-9801-46b0-88a8-e63f46f38873" "an image of the title page of Dvořák’s autograph score" %}}.
 
 Beginning in the 20th century, American composers began to move away from the emulation of European classical music and toward establishing their own styles of classical composition. However, this did not result in the formation of a large-scale American style but rather many different individual compositional styles. In this section, we will survey a few different American composers of the 20th century and get a glimpse of each of their individual styles.
 
@@ -29,20 +29,20 @@ In terms of his musical style, Ives’s music is generally extremely dissonant a
 
 Thus, his music gives the impression of moving through a space. You might imagine walking down a street in a small town in New England. As you pass the church, you might hear a hymn tune, then further down the street, you encounter a marching band in a parade. Later, you might pass a bar where dance music is playing. His music in this way attempts to create an image of what musical life was like in early 20th-century New England.
 
-Our example comes from a piece which he called Orchestral Set No. 1, composed between 1911 and 1914, although there are initial sketches that date to 1903, and he continued to revise it until 1929. Ives was always tinkering with his music. The title of "Orchestral Set" shows that he is avoiding the term "symphony," even though this is a three-movement work for orchestra and could conceivably be called a symphony. In addition, it also bears the title *Three Places in New England*. Each movement of this non-symphony is intended to represent a particular landmark in New England. The first movement is called “The St. Gaudens in Boston Common” and refers to the Robert Gould Shaw Memorial sculpture (created by the artist Augustus Saint-Gaudens in 1884), which sits in Boston Common near the corner of Beacon Street and Park Street. It memorializes the 54th Regiment Massachusetts Volunteer Infantry, one of the few African-American army units during the Civil War, led by Colonel Robert Gould Shaw. [The sculpture depicts the unit marching down Beacon Street in 1863 as they departed to join the fight.](https://en.wikipedia.org/wiki/Robert_Gould_Shaw_Memorial#/media/File:Robert_Gould_Shaw_Memorial_%2836053%29.jpg) 
+Our example comes from a piece which he called Orchestral Set No. 1, composed between 1911 and 1914, although there are initial sketches that date to 1903, and he continued to revise it until 1929. Ives was always tinkering with his music. The title of "Orchestral Set" shows that he is avoiding the term "symphony," even though this is a three-movement work for orchestra and could conceivably be called a symphony. In addition, it also bears the title *Three Places in New England*. Each movement of this non-symphony is intended to represent a particular landmark in New England. The first movement is called “The St. Gaudens in Boston Common” and refers to the Robert Gould Shaw Memorial sculpture (created by the artist Augustus Saint-Gaudens in 1884), which sits in Boston Common near the corner of Beacon Street and Park Street. It memorializes the 54th Regiment Massachusetts Volunteer Infantry, one of the few African-American army units during the Civil War, led by Colonel Robert Gould Shaw. {{% resource_link "843e8724-1ad0-41df-9382-7a1de3acf88e" "The sculpture depicts the unit marching down Beacon Street in 1863 as they departed to join the fight." %}} 
 
 This movement contains quotations of a variety of songs, including patriotic Civil War songs such as “Marching Through Georgia” and “The Battle Cry of Freedom.” There are popular songs by songwriter Stephen Foster, including “Massa’s in the Cold Ground” and “Old Black Joe.” (Please note these songs by Stephen Foster were written by a white songwriter and do not reflect an African American musical tradition. They are, in fact, part of the racist minstrel tradition and are not considered appropriate today, but were popular songs at the time). Ives weaves these tunes together, especially in the opening; their common use of the pentatonic scale helps to infuse an American musical style into this piece. Other tunes that are quoted here include “Reveille,” the trumpet call often used in the military to wake up soldiers in the morning, and “Deep River,” an African-American spiritual. Underneath these quotations, the bass instruments play an **ostinato** (a repeating melodic phrase) based on a minor third interval, which is meant to evoke an image of soldiers marching. The use of the minor third interval here is also related to the tunes that contain that interval as well.
 
 First, take a listen to these four main tunes that are quoted in the links below. You don’t need to listen to the whole thing for each, but get a sense at least of the tune of each. Then, listen to Ives’s piece and see if you can pick out those tunes within the otherwise chaotic and atonal background.
 
-- "Marching Through Georgia": [\[Listen on YouTube\]](https://www.youtube.com/watch?v=AAFEWL0-1scLinks)
-- "The Battle Cry of Freedom": [\[Listen on YouTube\]](https://www.youtube.com/watch?v=MGKnc_YiR-ELinks)
-- "Old Black Joe": [\[Listen on YouTube\]](https://www.youtube.com/watch?v=7ggAmvBpHIkLinks) 
-- "Massa's in de Cold, Cold Ground": [\[Listen on YouTube\]](https://www.youtube.com/watch?v=3oxQN1BVMlMLinks)
+- "Marching Through Georgia": {{% resource_link "ad4a9f86-d71a-4c75-b785-0cf750a4ded0" "[Listen on YouTube]" %}}
+- "The Battle Cry of Freedom": {{% resource_link "e6301f65-938a-45da-967f-84d40757ac7f" "[Listen on YouTube]" %}}
+- "Old Black Joe": {{% resource_link "e306d79b-29bb-4f21-9f1c-27679c1f882a" "[Listen on YouTube]" %}} 
+- "Massa's in de Cold, Cold Ground": {{% resource_link "b37cc1e5-32e9-476b-89fd-47c36ab47766" "[Listen on YouTube]" %}}
 
 ### Ives, "The St. Gaudens in Boston Common” from *Three Places in New England*, orchestral set (1911–14).
 
-Recording performed by the Cleveland Orchestra, directed by Christoph von Dohnányi. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=OJ_3uJEcYxY&t=1s)
+Recording performed by the Cleveland Orchestra, directed by Christoph von Dohnányi. {{% resource_link "3bcdc49d-40d5-44fe-a88f-9f7d6a6bedc0" "[Listen on YouTube]" %}}
 
 **Ruth Crawford**
 
@@ -56,7 +56,7 @@ Prelude for Piano No. 6 (Andante Mystico) is a short piece but exceedingly compl
 
 ### Crawford, Piano Prelude No. 6, Andante Mystico (piano miniature), 1928
 
-Recording performed by Sarah Cahill. [\[Listen on YouTube\]](https://youtu.be/atkeVmgh3fI?t=124)
+Recording performed by Sarah Cahill. {{% resource_link "5aa0aa9b-d222-4e2b-bf08-1a544d83da54" "[Listen on YouTube]" %}}
 
 0:00–0:10 (ostinato in high pitches)
 
@@ -104,7 +104,7 @@ Listen to the recording and follow along with the form guide below:
 
 ### Still, *Afro-American Symphony*: IV. “Aspiration” (symphony), 1930
 
-Recording performed by the London Symphony Orchestra, directed by Paul Freeman. [\[Listen on YouTube\]](https://youtu.be/LPQ_qgYrmQA?si=APHP_Q1kve9qx3uH)
+Recording performed by the London Symphony Orchestra, directed by Paul Freeman. {{% resource_link "30eab352-00b8-4eb0-9e77-fefcfec94561" "[Listen on YouTube]" %}}
 
 A: 0:00–1:43 (initial statement of hymn theme in strings with low brass accompaniment)
 
@@ -158,7 +158,7 @@ Despite the references to the Juba dance in the melodies and sounds of this move
 
 ### Price, Symphony No. 3 in C minor: III. Juba (symphony), 1940
 
-Recording performed by the Philadelphia Orchestra, directed by Yannick Nézet-Séguin.  [\[Listen on YouTube\]](https://www.youtube.com/watch?v=J82z8uZGo30)
+Recording performed by the Philadelphia Orchestra, directed by Yannick Nézet-Séguin.  {{% resource_link "f528e8fe-9a32-4dad-a598-341cf78feece" "[Listen on YouTube]" %}}
 
 A (fast, two themes in E♭ major and G major respectively): 0:00–2:01
 

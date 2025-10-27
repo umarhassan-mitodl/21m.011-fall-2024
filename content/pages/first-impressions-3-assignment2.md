@@ -21,14 +21,14 @@ Please note: As with any performance, all the performances you will hear are int
 
 Mozart, Symphony No. 40, I. Molto allegro (symphony)
 
-Movement I (0:26–8:10) only: [\[Listen on YouTube\]](https://youtu.be/QyQ-POuTNn8?feature=shared&t=26) 
+Movement I (0:26–8:10) only: {{% resource_link "cb1d5802-60a9-4c92-a77b-49c56ceb7de0" "[Listen on YouTube]" %}} 
 
 Joseph Bologne, Violin Concerto in D Major, Op. 3, No. 1, II. Adagio (concerto)
 
-Movement II (9:54–16:30) only: [\[Listen on YouTube\]](https://youtu.be/5NE1lwHDTOE?feature=shared&t=594)
+Movement II (9:54–16:30) only: {{% resource_link "bd1690fd-0e54-4155-b7b5-df50176acc5f" "[Listen on YouTube]" %}}
 
 ### *Romantic*
 
 Fanny Mendelssohn Hensel, Piano Trio in D minor, op. 11, III. Lied: Allegretto (piano trio)
 
-Movement III (5:58–end) only: [\[Listen on YouTube\]](https://youtu.be/TZr-2szy_uY?feature=shared&t=358)
+Movement III (5:58–end) only: {{% resource_link "dc451a04-44e6-45d4-8018-65dbe47e50fc" "[Listen on YouTube]" %}}

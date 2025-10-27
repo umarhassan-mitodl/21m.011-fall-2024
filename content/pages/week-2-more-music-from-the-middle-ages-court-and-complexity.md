@@ -36,7 +36,7 @@ uid: 10193ab8-f17d-4de8-b41e-2c1965c2a8d8
 
 One of the earliest known types of dance music, it could be strictly instrumental or have a text. 
 
-[More on Medieval Dance (Oxford Reference, The International Encyclopedia of Dance)](https://www-oxfordreference-com.libproxy.mit.edu/display/10.1093/acref/9780195173697.001.0001/acref-9780195173697-e-1142?rskey=KTJgad&result=10) \[Optional\]
+{{% resource_link "57e7151c-3b2f-49e5-aac6-87eac36bb913" "More on Medieval Dance (Oxford Reference, The International Encyclopedia of Dance)" %}} \[Optional\]
 
 **Polyphony** 
 
